@@ -10,12 +10,11 @@
     },
     "superadmin_gtxoctopus": {
       "userKey": "superadmin_gtxoctopus",
-      "sessionToken": "sess_mux5cgvu_amut8iu",
-      "deviceId": "dev_muwsz1ux_m8v67gv",
-      "timestamp": 1791321036824,
-      "status": "TERMINATED"
+      "status": "ACTIVE",
+      "deviceId": "dev_test",
+      "timestamp": 1791322230851
     }
   },
-  "updatedAt": "2026-10-06T21:10:36.529Z",
-  "server_time": "2026-10-06T21:10:36.529Z"
+  "updatedAt": "2026-10-06T21:30:27.094Z",
+  "server_time": "2026-10-06T21:30:27.094Z"
 }
