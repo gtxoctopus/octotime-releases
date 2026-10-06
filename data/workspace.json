@@ -1,1 +1,17 @@
-{"employees":[],"timeLogs":[],"equipment":[],"refueling":[],"absences":[],"incidents":[],"dailyProduction":[]}
+{
+  "updatedAt": "2026-10-06T15:52:22.239Z",
+  "updated_at": "2026-10-06T15:52:22.239Z",
+  "accountId": "tenant_scr",
+  "purgeEmployees": false,
+  "tombstones": {},
+  "employees": [],
+  "timeLogs": [],
+  "equipment": [],
+  "refueling": [],
+  "absences": [],
+  "incidents": [],
+  "dailyProduction": [],
+  "meals": [],
+  "suppliers": [],
+  "server_time": "2026-10-06T15:52:19.398Z"
+}
