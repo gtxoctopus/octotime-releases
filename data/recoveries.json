@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T17:07:23.891Z",
+  "updatedAt": "2026-10-06T17:09:17.586Z",
   "requests": [
     {
       "id": "req-1791306443891",
@@ -13,11 +13,13 @@
       "creatorAdminName": "Super Administrador Octopus",
       "type": "password_reset",
       "reason": "Solicitação de redefinição de senha e envio de novo link de acesso.",
-      "status": "Pendente",
+      "status": "Link Gerado",
       "requestedAt": "2026-10-06T17:07:23.891Z",
-      "token": null,
-      "expiresAt": null,
-      "durationMinutes": 30
+      "token": "rec_1791306557586_balhtfs",
+      "expiresAt": "2026-10-06T17:39:17.586Z",
+      "durationMinutes": 30,
+      "generatedAt": "2026-10-06T17:09:17.586Z"
     }
-  ]
+  ],
+  "server_time": "2026-10-06T17:09:14.517Z"
 }
