@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T17:14:25.114Z",
+  "updatedAt": "2026-10-06T17:14:32.845Z",
   "admins": [
     {
       "id": "adm-1791306860648",
@@ -21,5 +21,6 @@
       "lastLogin": "-"
     }
   ],
-  "subadmins": []
+  "subadmins": [],
+  "server_time": "2026-10-06T17:14:29.880Z"
 }
