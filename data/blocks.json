@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-06T22:38:21.104Z",
+  "updatedAt": "2026-10-06T22:38:26.192Z",
   "blockedApontadores": {
     "emp-1791315091790": {
       "id": "emp-1791315091790",
       "username": "a@scr.com",
       "name": "Apontador Teste Preservar",
       "blocked": true,
-      "timestamp": "2026-10-06T22:38:21.104Z"
+      "timestamp": "2026-10-06T22:38:26.192Z"
     }
   },
-  "server_time": "2026-10-06T22:38:20.822Z"
+  "server_time": "2026-10-06T22:38:25.911Z"
 }
