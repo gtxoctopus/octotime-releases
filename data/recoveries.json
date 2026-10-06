@@ -1,0 +1,24 @@
+{
+  "updatedAt": "2026-10-06T17:07:23.891Z",
+  "requests": [
+    {
+      "id": "req-1791306443891",
+      "employeeId": "adm-1791298269044",
+      "name": "Wilson SCR",
+      "username": "wilson",
+      "email": "wilson@scr.com",
+      "userRole": "admin",
+      "creatorRole": "superadmin",
+      "creatorAdminId": "superadmin",
+      "creatorAdminName": "Super Administrador Octopus",
+      "type": "password_reset",
+      "reason": "Solicitação de redefinição de senha e envio de novo link de acesso.",
+      "status": "Pendente",
+      "requestedAt": "2026-10-06T17:07:23.891Z",
+      "token": null,
+      "expiresAt": null,
+      "durationMinutes": 30
+    }
+  ],
+  "server_time": "2026-10-06T17:07:23.551Z"
+}
