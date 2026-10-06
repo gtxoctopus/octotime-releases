@@ -1,13 +1,20 @@
 {
   "sessions": {
     "novo": {
+      "sessionToken": "sess_mux1zo0v_4lzp9p1",
       "userKey": "novo",
-      "sessionToken": "sess_mux0hnq7_t9orbz0",
+      "userId": "adm-1791311273984",
+      "username": "novo@nov.com",
+      "userName": "NOVO",
+      "role": "admin",
       "deviceId": "dev_muwsz1ux_m8v67gv",
-      "timestamp": 1791311376813,
-      "status": "TERMINATED"
+      "deviceName": "💻 Computador (Windows)",
+      "timestamp": 1791313807711,
+      "startedAt": 1791313807711,
+      "lastActive": 1791313807711,
+      "status": "ACTIVE"
     }
   },
-  "updatedAt": "2026-10-06T18:29:36.621Z",
-  "server_time": "2026-10-06T18:29:36.621Z"
+  "updatedAt": "2026-10-06T19:10:08.376Z",
+  "server_time": "2026-10-06T19:10:08.376Z"
 }
