@@ -1,14 +1,13 @@
 {
   "sessions": {
-    "a": {
-      "userKey": "a",
-      "userId": "emp-1791315091790",
-      "username": "a@scr.com",
-      "status": "DELETED",
-      "reason": "Sua conta de Apontador (Apontador Teste Preservar) foi excluída pelo Administrador (wilson SCR-Ba). Todo o acesso foi revogado.",
-      "timestamp": 1791326309124
+    "superadmin_gtxoctopus": {
+      "userKey": "superadmin_gtxoctopus",
+      "sessionToken": "sess_mux65yug_6z8j4a2",
+      "deviceId": "dev_muwuxido_bah3s4y",
+      "timestamp": 1791328650708,
+      "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-10-06T22:38:28.847Z",
-  "server_time": "2026-10-06T22:38:28.847Z"
+  "updatedAt": "2026-10-06T23:17:26.451Z",
+  "server_time": "2026-10-06T23:17:26.451Z"
 }
