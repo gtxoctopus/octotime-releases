@@ -1,13 +1,13 @@
 {
   "sessions": {
-    "superadmin_gtxoctopus": {
-      "userKey": "superadmin_gtxoctopus",
-      "sessionToken": "sess_mux9pxnu_z2rq13n",
-      "deviceId": "dev_mux8qtdl_8c6gvhc",
-      "timestamp": 1791328826162,
+    "wilson": {
+      "userKey": "wilson",
+      "sessionToken": "sess_muxau7su_3ihofpm",
+      "deviceId": "dev_muwuxido_bah3s4y",
+      "timestamp": 1791328933278,
       "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-10-06T23:20:25.896Z",
-  "server_time": "2026-10-06T23:20:25.896Z"
+  "updatedAt": "2026-10-06T23:22:08.998Z",
+  "server_time": "2026-10-06T23:22:08.998Z"
 }
