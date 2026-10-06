@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-10-06T18:29:34.394Z",
+  "updatedAt": "2026-10-06T18:29:39.225Z",
   "admins": [
-    {
-      "id": "adm-1791298269044",
-      "name": "Wilson SCR",
-      "username": "wilson",
-      "password": "w123",
-      "email": "wilson@scr.com",
-      "emailExtension": "@scr.com",
-      "phone": "(73) 8896-8703",
-      "company": "SCR",
-      "cnpj": "02.873.295/0001-36",
-      "maxApontadores": 25,
-      "status": "Pausada",
-      "createdAt": "2026-10-06",
-      "updatedAt": "2026-10-06T17:04:59.933Z",
-      "passwordUpdatedAt": "2026-10-06T14:51:09.044Z",
-      "lastLogin": "-",
-      "pendingDeletion": {
-        "scheduledAt": "2026-10-06T17:04:59.933Z",
-        "executeAt": 1791306359932,
-        "reason": "Exclusão solicitada pelo Super Administrador"
-      }
-    },
     {
       "id": "adm-1791298607664",
       "name": "Wilson SCR",
@@ -92,5 +70,5 @@
     }
   ],
   "subadmins": [],
-  "server_time": "2026-10-06T18:29:34.215Z"
+  "server_time": "2026-10-06T18:29:36.013Z"
 }
