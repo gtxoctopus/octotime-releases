@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T22:38:08.449Z",
+  "updatedAt": "2026-10-06T22:40:37.657Z",
   "admins": [
     {
       "id": "adm-1791326285361",
@@ -16,7 +16,7 @@
       "maxApontadores": 25,
       "status": "Ativo",
       "createdAt": "2026-10-06",
-      "updatedAt": "2026-10-06T22:38:05.361Z",
+      "updatedAt": "2026-10-06T22:40:37.656Z",
       "passwordUpdatedAt": "2026-10-06T22:38:05.361Z",
       "lastLogin": "-"
     }
@@ -32,7 +32,9 @@
     "novo@nov.com",
     "adm-1791313645061",
     "01",
-    "01@01.com"
+    "01@01.com",
+    "emp-1791315091790",
+    "a@scr.com"
   ],
-  "server_time": "2026-10-06T22:38:08.667Z"
+  "server_time": "2026-10-06T22:40:37.505Z"
 }
