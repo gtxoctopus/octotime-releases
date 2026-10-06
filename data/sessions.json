@@ -1,7 +1,7 @@
 {
   "sessions": {
     "wilson": {
-      "sessionToken": "sess_mux4l7g9_09p5085",
+      "sessionToken": "sess_mux4l7gb_nrk27pe",
       "userKey": "wilson",
       "userId": "adm-1791306860648",
       "username": "wilson@scr.com",
@@ -9,12 +9,12 @@
       "role": "admin",
       "deviceId": "dev_muwuxido_bah3s4y",
       "deviceName": "💻 Computador (Windows)",
-      "timestamp": 1791318171897,
-      "startedAt": 1791318171897,
-      "lastActive": 1791318171897,
+      "timestamp": 1791318171899,
+      "startedAt": 1791318171899,
+      "lastActive": 1791318171899,
       "status": "ACTIVE"
     }
   },
-  "updatedAt": "2026-10-06T20:22:48.199Z",
-  "server_time": "2026-10-06T20:22:48.199Z"
+  "updatedAt": "2026-10-06T20:22:48.200Z",
+  "server_time": "2026-10-06T20:22:48.200Z"
 }
