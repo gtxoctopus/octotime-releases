@@ -1,20 +1,14 @@
 {
   "sessions": {
-    "superadmin_gtxoctopus": {
-      "sessionToken": "sess_mux9cba9_m8jv14b",
-      "userKey": "superadmin_gtxoctopus",
-      "userId": "superadmin_gtxoctopus",
-      "username": "gtxoctopus@gmail.com",
-      "userName": "Super Administrador Octopus",
-      "role": "superadmin",
-      "deviceId": "dev_mux8qtdl_8c6gvhc",
-      "deviceName": "📱 App Móvel Android (OctoTime)",
-      "timestamp": 1791326169734,
-      "startedAt": 1791326169734,
-      "lastActive": 1791326169734,
-      "status": "ACTIVE"
+    "a": {
+      "userKey": "a",
+      "userId": "emp-1791315091790",
+      "username": "a@scr.com",
+      "status": "DELETED",
+      "reason": "Sua conta de Apontador (Apontador Teste Preservar) foi excluída pelo Administrador (wilson SCR-Ba). Todo o acesso foi revogado.",
+      "timestamp": 1791326304099
     }
   },
-  "updatedAt": "2026-10-06T22:36:09.451Z",
-  "server_time": "2026-10-06T22:36:09.451Z"
+  "updatedAt": "2026-10-06T22:38:23.821Z",
+  "server_time": "2026-10-06T22:38:23.821Z"
 }
