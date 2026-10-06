@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T17:15:14.901Z",
+  "updatedAt": "2026-10-06T17:19:45.504Z",
   "admins": [
     {
       "id": "adm-1791306860648",
@@ -16,11 +16,10 @@
       "maxApontadores": 25,
       "status": "Ativo",
       "createdAt": "2026-10-06",
-      "updatedAt": "2026-10-06T17:14:20.648Z",
+      "updatedAt": "2026-10-06T17:19:41.057Z",
       "passwordUpdatedAt": "2026-10-06T17:14:20.648Z",
       "lastLogin": "-"
     }
   ],
-  "subadmins": [],
-  "server_time": "2026-10-06T17:15:11.898Z"
+  "subadmins": []
 }
