@@ -1,5 +1,13 @@
 {
-  "sessions": {},
-  "updatedAt": "2026-10-06T21:34:01.549Z",
-  "server_time": "2026-10-06T21:34:01.550Z"
+  "sessions": {
+    "superadmin_gtxoctopus": {
+      "userKey": "superadmin_gtxoctopus",
+      "sessionToken": "sess_mux67tr7_7snbd7p",
+      "deviceId": "dev_muwqft2f_jn2m3oy",
+      "timestamp": 1791324542112,
+      "status": "TERMINATED"
+    }
+  },
+  "updatedAt": "2026-10-06T22:08:58.071Z",
+  "server_time": "2026-10-06T22:08:58.071Z"
 }
