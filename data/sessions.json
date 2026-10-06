@@ -2,12 +2,13 @@
   "sessions": {
     "wilson": {
       "userKey": "wilson",
-      "sessionToken": "sess_muwxgpwy_jazggu2",
-      "deviceId": "dev_muwsz1ux_m8v67gv",
-      "timestamp": 1791306252296,
-      "status": "TERMINATED"
+      "userId": "adm-1791298269044",
+      "username": "wilson",
+      "status": "DELETED",
+      "reason": "Sua conta de Administrador (Wilson SCR) foi excluída permanentemente após o período de pausa de 1 minuto.",
+      "timestamp": 1791306360628
     }
   },
-  "updatedAt": "2026-10-06T17:04:11.963Z",
-  "server_time": "2026-10-06T17:04:11.963Z"
+  "updatedAt": "2026-10-06T17:05:57.567Z",
+  "server_time": "2026-10-06T17:05:57.567Z"
 }
