@@ -1,20 +1,14 @@
 {
   "sessions": {
-    "gtxoctopus": {
-      "sessionToken": "sess_mux4n4mv_ak4jf35",
-      "userKey": "gtxoctopus",
-      "userId": "gtxoctopus",
-      "username": "gtxoctopus@gmail.com",
-      "userName": "Super Administrador Octopus",
-      "role": "superadmin",
-      "deviceId": "dev_muwuxido_bah3s4y",
-      "deviceName": "💻 Computador (Windows)",
-      "timestamp": 1791318261559,
-      "startedAt": 1791318261559,
-      "lastActive": 1791318261559,
-      "status": "ACTIVE"
+    "wilson": {
+      "userKey": "wilson",
+      "userId": "adm-1791298607664",
+      "username": "wilson",
+      "status": "DELETED",
+      "reason": "Sua conta de Administrador (Wilson SCR) foi excluída permanentemente pelo Super Administrador Octopus. Todo o acesso foi revogado de imediato.",
+      "timestamp": 1791318290889
     }
   },
-  "updatedAt": "2026-10-06T20:24:17.853Z",
-  "server_time": "2026-10-06T20:24:17.853Z"
+  "updatedAt": "2026-10-06T20:24:47.184Z",
+  "server_time": "2026-10-06T20:24:47.184Z"
 }
