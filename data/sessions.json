@@ -1,7 +1,7 @@
 {
   "sessions": {
     "wilson": {
-      "sessionToken": "sess_mux06ze2_nguexp9",
+      "sessionToken": "sess_mux06ze5_l3ffxx1",
       "userKey": "wilson",
       "userId": "adm-1791298607664",
       "username": "wilson@scr.com",
@@ -9,9 +9,9 @@
       "role": "admin",
       "deviceId": "dev_muwuxido_bah3s4y",
       "deviceName": "💻 Computador (Windows)",
-      "timestamp": 1791310789802,
-      "startedAt": 1791310789802,
-      "lastActive": 1791310789802,
+      "timestamp": 1791310789805,
+      "startedAt": 1791310789805,
+      "lastActive": 1791310789805,
       "status": "ACTIVE"
     }
   },
