@@ -1,20 +1,14 @@
 {
   "sessions": {
     "novo": {
-      "sessionToken": "sess_mux0hnq7_t9orbz0",
       "userKey": "novo",
       "userId": "adm-1791311273984",
-      "username": "novo@nov.com",
-      "userName": "NOVO",
-      "role": "admin",
-      "deviceId": "dev_muwsz1ux_m8v67gv",
-      "deviceName": "💻 Computador (Windows)",
-      "timestamp": 1791311287903,
-      "startedAt": 1791311287903,
-      "lastActive": 1791311287903,
-      "status": "ACTIVE"
+      "username": "novo",
+      "status": "DELETED",
+      "reason": "Sua conta de Administrador (NOVO) foi excluída permanentemente após o período de pausa de 1 minuto.",
+      "timestamp": 1791311367632
     }
   },
-  "updatedAt": "2026-10-06T18:28:07.579Z",
-  "server_time": "2026-10-06T18:28:07.579Z"
+  "updatedAt": "2026-10-06T18:29:24.315Z",
+  "server_time": "2026-10-06T18:29:24.315Z"
 }
