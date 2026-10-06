@@ -1,13 +1,14 @@
 {
   "sessions": {
-    "01": {
-      "userKey": "01",
-      "sessionToken": "sess_mux200l0_7h49wpg",
-      "deviceId": "dev_muwsz1ux_m8v67gv",
-      "timestamp": 1791313837838,
-      "status": "TERMINATED"
+    "wilson": {
+      "userKey": "wilson",
+      "userId": "adm-1791298607664",
+      "username": "wilson",
+      "status": "DELETED",
+      "reason": "Sua conta de Administrador (Wilson SCR) foi excluída permanentemente pelo Super Administrador Octopus. Todo o acesso foi revogado de imediato.",
+      "timestamp": 1791317820260
     }
   },
-  "updatedAt": "2026-10-06T19:10:37.534Z",
-  "server_time": "2026-10-06T19:10:37.534Z"
+  "updatedAt": "2026-10-06T20:16:56.577Z",
+  "server_time": "2026-10-06T20:16:56.577Z"
 }
