@@ -1,20 +1,14 @@
 {
   "sessions": {
     "wilson": {
-      "sessionToken": "sess_mux06ze5_l3ffxx1",
       "userKey": "wilson",
-      "userId": "adm-1791298607664",
-      "username": "wilson@scr.com",
-      "userName": "Wilson SCR",
-      "role": "admin",
-      "deviceId": "dev_muwuxido_bah3s4y",
-      "deviceName": "💻 Computador (Windows)",
-      "timestamp": 1791310789805,
-      "startedAt": 1791310789805,
-      "lastActive": 1791310789805,
-      "status": "ACTIVE"
+      "userId": "adm-1791306860648",
+      "username": "wilson",
+      "status": "DELETED",
+      "reason": "Sua conta de Administrador (Wilson SCR / Ba) foi excluída permanentemente após o período de pausa de 1 minuto.",
+      "timestamp": 1791311172644
     }
   },
-  "updatedAt": "2026-10-06T18:19:46.494Z",
-  "server_time": "2026-10-06T18:19:46.494Z"
+  "updatedAt": "2026-10-06T18:26:09.334Z",
+  "server_time": "2026-10-06T18:26:09.334Z"
 }
