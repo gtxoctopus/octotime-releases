@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-07T00:10:09.359Z",
-  "updated_at": "2026-10-07T00:10:09.359Z",
-  "accountId": "tenant_guest",
+  "updatedAt": "2026-10-07T00:10:04.320Z",
+  "updated_at": "2026-10-07T00:10:04.320Z",
+  "accountId": "master_superadmin",
   "purgeEmployees": false,
   "tombstones": {
     "emp-1791315091790": {
       "id": "emp-1791315091790",
       "collection": "EMPLOYEES",
-      "deleted_at": "2026-10-06T23:48:20.035Z",
-      "timestamp": 1791330500035
+      "deleted_at": "2026-10-06T23:48:20.034Z",
+      "timestamp": 1791330500034
     }
   },
   "employees": [],
@@ -20,5 +20,5 @@
   "dailyProduction": [],
   "meals": [],
   "suppliers": [],
-  "server_time": "2026-10-07T00:10:09.425Z"
+  "server_time": "2026-10-07T00:10:10.532Z"
 }
