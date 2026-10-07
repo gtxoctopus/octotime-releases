@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-07T17:21:24.193Z",
-  "updated_at": "2026-10-07T17:21:24.193Z",
+  "updatedAt": "2026-10-07T17:21:27.894Z",
+  "updated_at": "2026-10-07T17:21:27.894Z",
   "accountId": "tenant_guest",
   "purgeEmployees": false,
   "tombstones": {
@@ -20,5 +20,5 @@
   "dailyProduction": [],
   "meals": [],
   "suppliers": [],
-  "server_time": "2026-10-07T17:21:24.069Z"
+  "server_time": "2026-10-07T17:21:30.069Z"
 }
