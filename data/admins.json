@@ -6,13 +6,15 @@
       "username": "wilson",
       "email": "wilson@scr.com.br",
       "password": "Wilba061026",
-      "status": "Ativo"
+      "status": "Ativo",
+      "updatedAt": "2026-10-07T00:22:03.582Z",
+      "passwordUpdatedAt": "2026-10-07T00:22:03.582Z"
     }
   ],
   "subadmins": [],
   "tombstones": [
     "adm-1791298269044"
   ],
-  "updatedAt": "2026-10-07T00:15:47.664Z",
-  "server_time": "2026-10-07T00:15:47.664Z"
+  "updatedAt": "2026-10-07T00:22:03.582Z",
+  "server_time": "2026-10-07T00:22:03.582Z"
 }
