@@ -1,7 +1,7 @@
 {
   "sessions": {
     "admin": {
-      "sessionToken": "sess_muymril2_q2ze1be",
+      "sessionToken": "sess_muymril2_03yv2w8",
       "userKey": "admin",
       "userId": "adm-1791407374994",
       "username": "admin@teste.com",
@@ -15,6 +15,6 @@
       "status": "ACTIVE"
     }
   },
-  "updatedAt": "2026-10-07T21:39:24.699Z",
-  "server_time": "2026-10-07T21:39:24.699Z"
+  "updatedAt": "2026-10-07T21:39:24.698Z",
+  "server_time": "2026-10-07T21:39:24.698Z"
 }
