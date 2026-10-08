@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T00:04:28.108Z",
-  "updated_at": "2026-10-08T00:04:28.108Z",
+  "updatedAt": "2026-10-08T00:04:33.295Z",
+  "updated_at": "2026-10-08T00:04:33.295Z",
   "accountId": "tenant_construtora_central___obras_ltda",
   "purgeEmployees": false,
   "tombstones": {
@@ -250,6 +250,5 @@
   "incidents": [],
   "dailyProduction": [],
   "meals": [],
-  "suppliers": [],
-  "server_time": "2026-10-08T00:04:30.586Z"
+  "suppliers": []
 }
