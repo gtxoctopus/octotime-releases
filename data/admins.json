@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T12:23:17.384Z",
+  "updatedAt": "2026-10-10T12:23:39.765Z",
   "dailyProduction": [
     {
       "id": "prod_1790944018674_hfmp7h",
@@ -42,8 +42,8 @@
       ],
       "generalObservations": "⚠️ A produção foi dividida em 2 partes pois a Parte [01] é o final do trecho chegando a Barra do rocha e a Parte [02] é após Barra do Rocha, sentido Ubatã",
       "createdAt": "2026-10-02T12:26:58.679Z",
-      "updatedAt": "2026-10-10T12:22:44.826Z",
-      "updated_at": "2026-10-10T12:22:44.826Z",
+      "updatedAt": "2026-10-10T12:23:06.144Z",
+      "updated_at": "2026-10-10T12:23:06.144Z",
       "timestamp": 1790944018838,
       "photo": null,
       "avatar": null,
@@ -94,13 +94,13 @@
       ],
       "generalObservations": "",
       "createdAt": "2026-10-05T19:37:51.844Z",
-      "updatedAt": "2026-10-10T12:22:44.826Z",
-      "updated_at": "2026-10-10T12:22:44.826Z",
+      "updatedAt": "2026-10-10T12:23:06.144Z",
+      "updated_at": "2026-10-10T12:23:06.144Z",
       "photo": null,
       "avatar": null,
       "companyLogo": null,
       "photoThumb": null
     }
   ],
-  "server_time": "2026-10-10T12:23:20.113Z"
+  "server_time": "2026-10-10T12:23:42.489Z"
 }
