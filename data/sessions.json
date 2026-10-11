@@ -1,14 +1,14 @@
 {
   "sessions": {
-    "emp-1790808755434": {
-      "userKey": "emp-1790808755434",
-      "userId": "emp-1790808755434",
+    "emp-1790726998154": {
+      "userKey": "emp-1790726998154",
+      "userId": "emp-1790726998154",
       "username": "",
       "status": "DELETED",
-      "reason": "Sua conta de Colaborador (Isaias Andrade Almeida) foi excluída pelo Administrador (Mateus Barbosa). Todo o acesso foi revogado.",
-      "timestamp": 1791687231171
+      "reason": "Sua conta de Colaborador (Balbino Melo de Lima) foi excluída pelo Administrador (Mateus Barbosa). Todo o acesso foi revogado.",
+      "timestamp": 1791687235359
     }
   },
-  "updatedAt": "2026-10-11T02:53:50.619Z",
-  "server_time": "2026-10-11T02:53:50.619Z"
+  "updatedAt": "2026-10-11T02:53:54.798Z",
+  "server_time": "2026-10-11T02:53:54.798Z"
 }
