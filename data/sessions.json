@@ -1,20 +1,13 @@
 {
   "sessions": {
-    "superadmin_gtxoctopus": {
+    "wilson": {
+      "userKey": "wilson",
       "sessionToken": "sess_mv38ptqt_qxpmg2h",
-      "userKey": "superadmin_gtxoctopus",
-      "userId": "superadmin_gtxoctopus",
-      "username": "gtxoctopus@gmail.com",
-      "userName": "Super Administrador Octopus",
-      "role": "superadmin",
       "deviceId": "dev_mux5egbg_mwbvkcb",
-      "deviceName": "💻 Computador (Windows)",
-      "timestamp": 1791687903207,
-      "startedAt": 1791687903207,
-      "lastActive": 1791687903207,
-      "status": "ACTIVE"
+      "timestamp": 1791688323232,
+      "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-10-11T03:05:02.740Z",
-  "server_time": "2026-10-11T03:05:02.740Z"
+  "updatedAt": "2026-10-11T03:12:02.745Z",
+  "server_time": "2026-10-11T03:12:02.745Z"
 }
