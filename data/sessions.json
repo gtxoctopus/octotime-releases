@@ -1,20 +1,14 @@
 {
   "sessions": {
-    "gt": {
-      "sessionToken": "sess_mv389trg_iv4ridi",
-      "userKey": "gt",
-      "userId": "emp-1791414795406",
-      "username": "gt@scr.com.br",
-      "userName": "Mateus Barbosa",
-      "role": "apontador",
-      "deviceId": "dev_mv387z5v_57t3iul",
-      "deviceName": "📱 Celular / Tablet (Navegador)",
-      "timestamp": 1791687156460,
-      "startedAt": 1791687156460,
-      "lastActive": 1791687156460,
-      "status": "ACTIVE"
+    "emp-1790808863408": {
+      "userKey": "emp-1790808863408",
+      "userId": "emp-1790808863408",
+      "username": "",
+      "status": "DELETED",
+      "reason": "Sua conta de Colaborador (Leiluan Almeida dos Santos) foi excluída pelo Administrador (Mateus Barbosa). Todo o acesso foi revogado.",
+      "timestamp": 1791687225482
     }
   },
-  "updatedAt": "2026-10-11T02:52:35.875Z",
-  "server_time": "2026-10-11T02:52:35.875Z"
+  "updatedAt": "2026-10-11T02:53:44.915Z",
+  "server_time": "2026-10-11T02:53:44.915Z"
 }
