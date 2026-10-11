@@ -1,14 +1,13 @@
 {
   "sessions": {
-    "emp-1790726998154": {
-      "userKey": "emp-1790726998154",
-      "userId": "emp-1790726998154",
-      "username": "",
-      "status": "DELETED",
-      "reason": "Sua conta de Colaborador (Balbino Melo de Lima) foi excluída pelo Administrador (Mateus Barbosa). Todo o acesso foi revogado.",
-      "timestamp": 1791687235359
+    "gt": {
+      "userKey": "gt",
+      "sessionToken": "sess_mv389trg_iv4ridi",
+      "deviceId": "dev_mv387z5v_57t3iul",
+      "timestamp": 1791687283613,
+      "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-10-11T02:53:54.798Z",
-  "server_time": "2026-10-11T02:53:54.798Z"
+  "updatedAt": "2026-10-11T02:54:43.066Z",
+  "server_time": "2026-10-11T02:54:43.066Z"
 }
