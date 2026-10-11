@@ -2,12 +2,12 @@
   "sessions": {
     "wilson": {
       "userKey": "wilson",
-      "sessionToken": "sess_mv39dsrq_hbxhpes",
+      "sessionToken": "sess_mv39duny_rm59mfl",
       "deviceId": "dev_mux5egbg_mwbvkcb",
-      "timestamp": 1791689022934,
+      "timestamp": 1791689025502,
       "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-10-11T03:23:42.404Z",
-  "server_time": "2026-10-11T03:23:42.404Z"
+  "updatedAt": "2026-10-11T03:23:44.977Z",
+  "server_time": "2026-10-11T03:23:44.977Z"
 }
