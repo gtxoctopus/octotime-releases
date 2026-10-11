@@ -1,14 +1,14 @@
 {
   "sessions": {
-    "emp-1790808863408": {
-      "userKey": "emp-1790808863408",
-      "userId": "emp-1790808863408",
+    "emp-1790808755434": {
+      "userKey": "emp-1790808755434",
+      "userId": "emp-1790808755434",
       "username": "",
       "status": "DELETED",
-      "reason": "Sua conta de Colaborador (Leiluan Almeida dos Santos) foi excluída pelo Administrador (Mateus Barbosa). Todo o acesso foi revogado.",
-      "timestamp": 1791687225482
+      "reason": "Sua conta de Colaborador (Isaias Andrade Almeida) foi excluída pelo Administrador (Mateus Barbosa). Todo o acesso foi revogado.",
+      "timestamp": 1791687231171
     }
   },
-  "updatedAt": "2026-10-11T02:53:44.915Z",
-  "server_time": "2026-10-11T02:53:44.915Z"
+  "updatedAt": "2026-10-11T02:53:50.619Z",
+  "server_time": "2026-10-11T02:53:50.619Z"
 }
