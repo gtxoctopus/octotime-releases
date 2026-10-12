@@ -1,20 +1,14 @@
 {
   "sessions": {
-    "adm": {
-      "sessionToken": "sess_mv5aov4b_22776kq",
-      "userKey": "adm",
-      "userId": "adm-1791407374994",
-      "username": "adm@teste.com",
-      "userName": "Administrador Para Testes",
-      "role": "admin",
-      "deviceId": "dev_mux99ucc_hyys92k",
-      "deviceName": "📱 App Móvel Android (OctoTime)",
-      "timestamp": 1791812149643,
-      "startedAt": 1791812149643,
-      "lastActive": 1791812149643,
-      "status": "ACTIVE"
+    "ap2": {
+      "userKey": "ap2",
+      "userId": "emp-1791825634913",
+      "username": "ap2@teste.com",
+      "status": "DELETED",
+      "reason": "Sua conta de Apontador (Ap Teste 02) foi excluída pelo Administrador (Administrador Para Testes). Todo o acesso foi revogado.",
+      "timestamp": 1791826188456
     }
   },
-  "updatedAt": "2026-10-12T13:35:47.418Z",
-  "server_time": "2026-10-12T13:35:47.418Z"
+  "updatedAt": "2026-10-12T17:29:48.784Z",
+  "server_time": "2026-10-12T17:29:48.784Z"
 }
