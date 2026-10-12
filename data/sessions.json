@@ -1,20 +1,20 @@
 {
   "sessions": {
-    "adm": {
-      "sessionToken": "sess_mv5l2wbg_m1ic349",
-      "userKey": "adm",
-      "userId": "adm-1791407374994",
-      "username": "adm@teste.com",
-      "userName": "Administrador Para Testes",
-      "role": "admin",
-      "deviceId": "dev_mux99ucc_hyys92k",
-      "deviceName": "📱 App Móvel Android (OctoTime)",
-      "timestamp": 1791829600540,
-      "startedAt": 1791829600540,
-      "lastActive": 1791829600540,
+    "ap2": {
+      "sessionToken": "sess_mv5l5rs6_5emvw6q",
+      "userKey": "ap2",
+      "userId": "emp-1791826983572",
+      "username": "ap2@teste.com",
+      "userName": "Ap teste 02",
+      "role": "apontador",
+      "deviceId": "dev_muwqft2f_jn2m3oy",
+      "deviceName": "💻 Computador (Windows)",
+      "timestamp": 1791829734630,
+      "startedAt": 1791829734630,
+      "lastActive": 1791829734630,
       "status": "ACTIVE"
     }
   },
-  "updatedAt": "2026-10-12T18:26:40.763Z",
-  "server_time": "2026-10-12T18:26:40.763Z"
+  "updatedAt": "2026-10-12T18:28:54.771Z",
+  "server_time": "2026-10-12T18:28:54.771Z"
 }
