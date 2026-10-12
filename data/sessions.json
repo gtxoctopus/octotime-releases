@@ -1,13 +1,13 @@
 {
   "sessions": {
-    "gt": {
-      "userKey": "gt",
-      "sessionToken": "sess_mv3va7ai_5j56x52",
-      "deviceId": "dev_mv3v93jy_3o1ket7",
-      "timestamp": 1791829794078,
+    "adm": {
+      "userKey": "adm",
+      "sessionToken": "sess_mv5l2wbg_m1ic349",
+      "deviceId": "dev_mux99ucc_hyys92k",
+      "timestamp": 1791830115300,
       "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-10-12T18:29:53.349Z",
-  "server_time": "2026-10-12T18:29:53.349Z"
+  "updatedAt": "2026-10-12T18:35:15.594Z",
+  "server_time": "2026-10-12T18:35:15.594Z"
 }
