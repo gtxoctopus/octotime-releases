@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-12T02:35:48.882Z",
-  "updated_at": "2026-10-12T02:35:48.882Z",
+  "updatedAt": "2026-10-12T02:37:05.453Z",
+  "updated_at": "2026-10-12T02:37:05.453Z",
   "accountId": "tenant_empresa_cliente",
   "purgeEmployees": false,
   "tombstones": {
@@ -4997,10 +4997,14 @@
       "weather": "BOM",
       "pointType": "coletivo",
       "isEdited": false,
-      "updated_at": "2026-10-12T02:32:41.911Z",
-      "updatedAt": "2026-10-12T02:32:41.911Z",
+      "updated_at": "2026-10-12T02:35:51.670Z",
+      "updatedAt": "2026-10-12T02:35:51.670Z",
       "_action": "UPDATE",
-      "_version": 1
+      "_version": 1,
+      "photo": null,
+      "avatar": null,
+      "photoThumb": null,
+      "companyLogo": null
     },
     {
       "id": "log-1791772361911-1-emp-1791415202934",
@@ -5020,10 +5024,14 @@
       "weather": "BOM",
       "pointType": "coletivo",
       "isEdited": false,
-      "updated_at": "2026-10-12T02:32:41.911Z",
-      "updatedAt": "2026-10-12T02:32:41.911Z",
+      "updated_at": "2026-10-12T02:35:51.670Z",
+      "updatedAt": "2026-10-12T02:35:51.670Z",
       "_action": "UPDATE",
-      "_version": 1
+      "_version": 1,
+      "photo": null,
+      "avatar": null,
+      "photoThumb": null,
+      "companyLogo": null
     },
     {
       "id": "log-1791772361911-2-emp-1791415311965",
@@ -5043,10 +5051,14 @@
       "weather": "BOM",
       "pointType": "coletivo",
       "isEdited": false,
-      "updated_at": "2026-10-12T02:32:41.911Z",
-      "updatedAt": "2026-10-12T02:32:41.911Z",
+      "updated_at": "2026-10-12T02:35:51.670Z",
+      "updatedAt": "2026-10-12T02:35:51.670Z",
       "_action": "UPDATE",
-      "_version": 1
+      "_version": 1,
+      "photo": null,
+      "avatar": null,
+      "photoThumb": null,
+      "companyLogo": null
     },
     {
       "id": "log-1791772361911-3-emp-1791414795406",
@@ -5066,10 +5078,14 @@
       "weather": "BOM",
       "pointType": "coletivo",
       "isEdited": false,
-      "updated_at": "2026-10-12T02:32:41.911Z",
-      "updatedAt": "2026-10-12T02:32:41.911Z",
+      "updated_at": "2026-10-12T02:35:51.670Z",
+      "updatedAt": "2026-10-12T02:35:51.670Z",
       "_action": "UPDATE",
-      "_version": 1
+      "_version": 1,
+      "photo": null,
+      "avatar": null,
+      "photoThumb": null,
+      "companyLogo": null
     }
   ],
   "equipment": [
@@ -5473,5 +5489,5 @@
       "photoThumb": null
     }
   ],
-  "server_time": "2026-10-12T02:36:11.472Z"
+  "server_time": "2026-10-12T02:37:05.480Z"
 }
