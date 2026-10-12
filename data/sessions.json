@@ -1,13 +1,13 @@
 {
   "sessions": {
-    "wilson": {
-      "userKey": "wilson",
-      "sessionToken": "sess_mv4xds0p_5htgi2v",
+    "superadmin_gtxoctopus": {
+      "userKey": "superadmin_gtxoctopus",
+      "sessionToken": "",
       "deviceId": "dev_mux99ucc_hyys92k",
-      "timestamp": 1791804025961,
+      "timestamp": 1791804034951,
       "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-10-12T11:20:24.157Z",
-  "server_time": "2026-10-12T11:20:24.157Z"
+  "updatedAt": "2026-10-12T11:20:33.302Z",
+  "server_time": "2026-10-12T11:20:33.302Z"
 }
