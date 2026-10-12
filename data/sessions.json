@@ -1,13 +1,14 @@
 {
   "sessions": {
-    "ap": {
-      "userKey": "ap",
-      "sessionToken": "sess_mv584wzi_tqufskv",
-      "deviceId": "dev_muwuxido_bah3s4y",
-      "timestamp": 1791808043674,
-      "status": "TERMINATED"
+    "gtx": {
+      "userKey": "gtx",
+      "userId": "emp-1791789425661",
+      "username": "gtx@scr.com.br",
+      "status": "DELETED",
+      "reason": "Sua conta de Apontador (Mateus Barbosa) foi excluída pelo Administrador (wilson SCR-Ba). Todo o acesso foi revogado.",
+      "timestamp": 1791808093608
     }
   },
-  "updatedAt": "2026-10-12T12:27:21.655Z",
-  "server_time": "2026-10-12T12:27:21.655Z"
+  "updatedAt": "2026-10-12T12:28:11.636Z",
+  "server_time": "2026-10-12T12:28:11.636Z"
 }
