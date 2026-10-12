@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T17:40:56.182Z",
+  "updatedAt": "2026-10-12T17:43:04.269Z",
   "blockedApontadores": {
     "emp-1791315091790": {
       "id": "emp-1791315091790",
@@ -7,14 +7,7 @@
       "name": "Apontador Teste Preservar",
       "blocked": true,
       "timestamp": "2026-10-06T22:38:26.192Z"
-    },
-    "emp-1791825634913": {
-      "id": "emp-1791825634913",
-      "username": "ap2@teste.com",
-      "name": "Ap Teste 02",
-      "blocked": true,
-      "timestamp": "2026-10-12T17:29:45.558Z"
     }
   },
-  "server_time": "2026-10-12T17:40:56.468Z"
+  "server_time": "2026-10-12T17:43:04.639Z"
 }
