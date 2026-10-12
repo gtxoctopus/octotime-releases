@@ -1,7 +1,7 @@
 {
   "sessions": {
     "mb": {
-      "sessionToken": "sess_mv4rw5mm_w0s0ml3",
+      "sessionToken": "sess_mv4rw5mr_ks5zvjs",
       "userKey": "mb",
       "userId": "emp-1790723853590",
       "username": "mb@scr.com",
@@ -9,12 +9,12 @@
       "role": "apontador",
       "deviceId": "dev_mutbsqf3_c2ugvv8",
       "deviceName": "💻 Computador (Windows)",
-      "timestamp": 1791780577150,
-      "startedAt": 1791780577150,
-      "lastActive": 1791780577150,
+      "timestamp": 1791780577155,
+      "startedAt": 1791780577155,
+      "lastActive": 1791780577155,
       "status": "ACTIVE"
     }
   },
-  "updatedAt": "2026-10-12T04:49:36.645Z",
-  "server_time": "2026-10-12T04:49:36.645Z"
+  "updatedAt": "2026-10-12T04:49:36.652Z",
+  "server_time": "2026-10-12T04:49:36.652Z"
 }
