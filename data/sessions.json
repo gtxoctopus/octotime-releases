@@ -1,14 +1,20 @@
 {
   "sessions": {
-    "mb": {
-      "userKey": "mb",
-      "userId": "emp-1790723853590",
-      "username": "mb@scr.com",
-      "status": "DELETED",
-      "reason": "Sua conta de Apontador (Mateus Barbosa) foi excluída pelo Administrador (Mateus Barbosa). Todo o acesso foi revogado.",
-      "timestamp": 1791789106244
+    "gt": {
+      "sessionToken": "sess_mv4wzl8y_aacrd4w",
+      "userKey": "gt",
+      "userId": "emp-1791414795406",
+      "username": "gt@scr.com.br",
+      "userName": "Mateus Barbosa",
+      "role": "apontador",
+      "deviceId": "dev_muwuxido_bah3s4y",
+      "deviceName": "💻 Computador (Windows)",
+      "timestamp": 1791789135442,
+      "startedAt": 1791789135442,
+      "lastActive": 1791789135442,
+      "status": "ACTIVE"
     }
   },
-  "updatedAt": "2026-10-12T07:11:45.376Z",
-  "server_time": "2026-10-12T07:11:45.376Z"
+  "updatedAt": "2026-10-12T07:12:19.531Z",
+  "server_time": "2026-10-12T07:12:19.531Z"
 }
