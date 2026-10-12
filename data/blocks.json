@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T11:55:30.539Z",
+  "updatedAt": "2026-10-12T12:28:10.475Z",
   "blockedApontadores": {
     "emp-1791315091790": {
       "id": "emp-1791315091790",
@@ -7,7 +7,14 @@
       "name": "Apontador Teste Preservar",
       "blocked": true,
       "timestamp": "2026-10-06T22:38:26.192Z"
+    },
+    "emp-1791789425661": {
+      "id": "emp-1791789425661",
+      "username": "gtx@scr.com.br",
+      "name": "Mateus Barbosa",
+      "blocked": true,
+      "timestamp": "2026-10-12T12:28:10.474Z"
     }
   },
-  "server_time": "2026-10-12T11:55:28.725Z"
+  "server_time": "2026-10-12T12:28:08.596Z"
 }
