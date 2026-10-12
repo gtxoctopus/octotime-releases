@@ -1,7 +1,7 @@
 {
   "sessions": {
     "ap2": {
-      "sessionToken": "sess_mv5t930x_mf5qt9z",
+      "sessionToken": "sess_mv5t930t_59yhrnd",
       "userKey": "ap2",
       "userId": "emp-1791826983572",
       "username": "ap2@teste.com",
@@ -9,12 +9,12 @@
       "role": "apontador",
       "deviceId": "dev_muwqft2f_jn2m3oy",
       "deviceName": "💻 Computador (Windows)",
-      "timestamp": 1791843326097,
-      "startedAt": 1791843326097,
-      "lastActive": 1791843326097,
+      "timestamp": 1791843326093,
+      "startedAt": 1791843326093,
+      "lastActive": 1791843326093,
       "status": "ACTIVE"
     }
   },
-  "updatedAt": "2026-10-12T22:15:25.519Z",
-  "server_time": "2026-10-12T22:15:25.519Z"
+  "updatedAt": "2026-10-12T22:15:25.517Z",
+  "server_time": "2026-10-12T22:15:25.517Z"
 }
