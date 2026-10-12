@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-12T06:19:34.174Z",
-  "updated_at": "2026-10-12T06:19:34.174Z",
+  "updatedAt": "2026-10-12T06:20:48.743Z",
+  "updated_at": "2026-10-12T06:20:48.743Z",
   "accountId": "tenant_empresa_cliente",
   "purgeEmployees": false,
   "tombstones": {
@@ -2681,7 +2681,7 @@
       "pointType": "coletivo",
       "isEdited": false,
       "updated_at": "2026-10-12T06:19:09.477Z",
-      "updatedAt": "2026-10-12T06:19:09.478Z",
+      "updatedAt": "2026-10-12T06:19:09.477Z",
       "_action": "UPDATE",
       "_version": 1,
       "photo": null,
@@ -4494,21 +4494,143 @@
       "creatorAdminUsername": "",
       "company": "Empresa Cliente",
       "date": "2026-10-12",
-      "entry": "03:19",
-      "lunchStart": "",
-      "lunchEnd": "",
-      "exit": "",
-      "observations": "",
+      "entry": "07:00",
+      "lunchStart": "12:00",
+      "lunchEnd": "13:00",
+      "exit": "17:00",
+      "observations": "Apontamento coletivo de equipe",
       "weather": "BOM",
-      "pointType": "individual",
-      "isEdited": false,
-      "editHistory": [],
-      "updated_at": "2026-10-12T06:19:34.094Z",
-      "updatedAt": "2026-10-12T06:19:34.094Z",
+      "pointType": "coletivo",
+      "isEdited": true,
+      "editHistory": [
+        {
+          "editedAt": "2026-10-12T06:20:00.378Z",
+          "editedBy": "Mateus Barbosa",
+          "role": "apontador",
+          "observation": "Alteração em horário previamente apontado (2026-10-12)",
+          "changesSummary": "Horário de Entrada: \"03:19\" ➔ \"07:00\"",
+          "changesList": [
+            "Horário de Entrada: \"03:19\" ➔ \"07:00\""
+          ],
+          "previousState": {
+            "entry": "03:19",
+            "lunchStart": "--:--",
+            "lunchEnd": "--:--",
+            "exit": "--:--",
+            "observations": ""
+          },
+          "newState": {
+            "entry": "07:00",
+            "lunchStart": "12:00",
+            "lunchEnd": "13:00",
+            "exit": "17:00",
+            "observations": "Apontamento coletivo de equipe"
+          }
+        }
+      ],
+      "updated_at": "2026-10-12T06:20:00.378Z",
+      "updatedAt": "2026-10-12T06:20:00.378Z",
       "_action": "UPDATE",
-      "_version": 3,
+      "_version": 4,
       "activity": "",
-      "duplicateNotice": null
+      "duplicateNotice": {
+        "count": 2,
+        "date": "2026-10-12",
+        "senderName": "Mateus Barbosa",
+        "senderRole": "apontador",
+        "changes": [
+          "Horário de Entrada: \"03:19\" ➔ \"07:00\""
+        ],
+        "sentAt": "2026-10-12T06:20:00.378Z",
+        "message": "Alteração de horário detectada para a data 2026-10-12 pelo apontador Mateus Barbosa.",
+        "previousLog": {
+          "entry": "03:19",
+          "lunchStart": "",
+          "lunchEnd": "",
+          "exit": "",
+          "observations": "",
+          "activity": "",
+          "weather": "BOM"
+        },
+        "newLog": {
+          "entry": "07:00",
+          "lunchStart": "12:00",
+          "lunchEnd": "13:00",
+          "exit": "17:00",
+          "observations": "Apontamento coletivo de equipe",
+          "activity": "",
+          "weather": "BOM"
+        }
+      }
+    },
+    {
+      "id": "log-1791786000378-1-emp-1791415202934",
+      "employeeId": "emp-1791415202934",
+      "employeeName": "Iasaías Almeida Andrade ",
+      "apontadorId": "emp-1790723853590",
+      "apontadorName": "Mateus Barbosa",
+      "creatorAdminId": "adm-1790552990992",
+      "creatorAdminUsername": "",
+      "company": "Empresa Cliente",
+      "date": "2026-10-12",
+      "entry": "07:00",
+      "lunchStart": "12:00",
+      "lunchEnd": "13:00",
+      "exit": "17:00",
+      "observations": "Apontamento coletivo de equipe",
+      "weather": "BOM",
+      "pointType": "coletivo",
+      "isEdited": false,
+      "updated_at": "2026-10-12T06:20:00.378Z",
+      "updatedAt": "2026-10-12T06:20:00.378Z",
+      "_action": "UPDATE",
+      "_version": 1
+    },
+    {
+      "id": "log-1791786000378-2-emp-1791415311965",
+      "employeeId": "emp-1791415311965",
+      "employeeName": "Leiluan Almeida dos Santos",
+      "apontadorId": "emp-1790723853590",
+      "apontadorName": "Mateus Barbosa",
+      "creatorAdminId": "adm-1790552990992",
+      "creatorAdminUsername": "",
+      "company": "Empresa Cliente",
+      "date": "2026-10-12",
+      "entry": "07:00",
+      "lunchStart": "12:00",
+      "lunchEnd": "13:00",
+      "exit": "17:00",
+      "observations": "Apontamento coletivo de equipe",
+      "weather": "BOM",
+      "pointType": "coletivo",
+      "isEdited": false,
+      "updated_at": "2026-10-12T06:20:00.378Z",
+      "updatedAt": "2026-10-12T06:20:00.378Z",
+      "_action": "UPDATE",
+      "_version": 1
+    },
+    {
+      "id": "log-1791786000378-3-emp-1790723853590",
+      "employeeId": "emp-1790723853590",
+      "employeeName": "Mateus Barbosa",
+      "apontadorId": "emp-1790723853590",
+      "apontadorName": "Mateus Barbosa",
+      "creatorAdminId": "adm-1790552990992",
+      "creatorAdminUsername": "",
+      "company": "Empresa Cliente",
+      "date": "2026-10-12",
+      "entry": "07:00",
+      "lunchStart": "12:00",
+      "lunchEnd": "13:00",
+      "exit": "17:00",
+      "observations": "Apontamento coletivo de equipe",
+      "weather": "BOM",
+      "pointType": "coletivo",
+      "isEdited": false,
+      "updated_at": "2026-10-12T06:20:00.378Z",
+      "updatedAt": "2026-10-12T06:20:00.378Z",
+      "_action": "UPDATE",
+      "_version": 1
     }
   ],
   "equipment": [
@@ -4912,5 +5034,5 @@
       "photoThumb": null
     }
   ],
-  "server_time": "2026-10-12T06:19:38.333Z"
+  "server_time": "2026-10-12T06:20:48.624Z"
 }
