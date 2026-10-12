@@ -1,14 +1,13 @@
 {
   "sessions": {
-    "ap2": {
-      "userKey": "ap2",
-      "userId": "emp-1791825634913",
-      "username": "ap2@teste.com",
-      "status": "DELETED",
-      "reason": "Sua conta de Apontador (Ap Teste 02) foi excluída pelo Administrador (Administrador Para Testes). Todo o acesso foi revogado.",
-      "timestamp": 1791826188456
+    "adm": {
+      "userKey": "adm",
+      "sessionToken": "sess_mv5aov4b_22776kq",
+      "deviceId": "dev_mux99ucc_hyys92k",
+      "timestamp": 1791826634608,
+      "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-10-12T17:29:48.784Z",
-  "server_time": "2026-10-12T17:29:48.784Z"
+  "updatedAt": "2026-10-12T17:37:15.017Z",
+  "server_time": "2026-10-12T17:37:15.017Z"
 }
