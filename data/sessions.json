@@ -1,14 +1,13 @@
 {
   "sessions": {
-    "gt": {
-      "userKey": "gt",
-      "userId": "emp-1791414795406",
-      "username": "gt@scr.com.br",
-      "status": "DELETED",
-      "reason": "Sua conta de Apontador (Mateus Barbosa) foi excluída pelo Administrador (Mateus Barbosa). Todo o acesso foi revogado.",
-      "timestamp": 1791789225406
+    "wilson": {
+      "userKey": "wilson",
+      "sessionToken": "sess_mv4redly_twtxv58",
+      "deviceId": "dev_mux99ucc_hyys92k",
+      "timestamp": 1791789788071,
+      "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-10-12T07:13:44.400Z",
-  "server_time": "2026-10-12T07:13:44.400Z"
+  "updatedAt": "2026-10-12T07:23:07.029Z",
+  "server_time": "2026-10-12T07:23:07.029Z"
 }
