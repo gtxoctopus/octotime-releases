@@ -1,20 +1,13 @@
 {
   "sessions": {
     "mb": {
-      "sessionToken": "sess_mv4rw5mr_ks5zvjs",
       "userKey": "mb",
-      "userId": "emp-1790723853590",
-      "username": "mb@scr.com",
-      "userName": "Mateus Barbosa",
-      "role": "apontador",
+      "sessionToken": "sess_mv4rw5mr_ks5zvjs",
       "deviceId": "dev_mutbsqf3_c2ugvv8",
-      "deviceName": "💻 Computador (Windows)",
-      "timestamp": 1791780577155,
-      "startedAt": 1791780577155,
-      "lastActive": 1791780577155,
-      "status": "ACTIVE"
+      "timestamp": 1791780892669,
+      "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-10-12T04:49:36.652Z",
-  "server_time": "2026-10-12T04:49:36.652Z"
+  "updatedAt": "2026-10-12T04:54:52.149Z",
+  "server_time": "2026-10-12T04:54:52.149Z"
 }
