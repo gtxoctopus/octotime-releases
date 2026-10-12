@@ -2,12 +2,12 @@
   "sessions": {
     "ap2": {
       "userKey": "ap2",
-      "sessionToken": "sess_mv5t2dsu_yql4188",
-      "deviceId": "dev_mv5lbotl_ezc4b0i",
-      "timestamp": 1791843205762,
+      "sessionToken": "sess_mv5t689o_g1d40fe",
+      "deviceId": "dev_mux99ucc_hyys92k",
+      "timestamp": 1791843252798,
       "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-10-12T22:13:25.183Z",
-  "server_time": "2026-10-12T22:13:25.183Z"
+  "updatedAt": "2026-10-12T22:14:12.220Z",
+  "server_time": "2026-10-12T22:14:12.220Z"
 }
