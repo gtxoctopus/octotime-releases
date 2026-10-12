@@ -1,13 +1,13 @@
 {
   "sessions": {
-    "ap1": {
-      "userKey": "ap1",
-      "sessionToken": "sess_mv5u6w3k_vnssaaw",
+    "superadmin_gtxoctopus": {
+      "userKey": "superadmin_gtxoctopus",
+      "sessionToken": "",
       "deviceId": "dev_mux99ucc_hyys92k",
-      "timestamp": 1791845424938,
+      "timestamp": 1791845491946,
       "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-10-12T22:50:24.248Z",
-  "server_time": "2026-10-12T22:50:24.248Z"
+  "updatedAt": "2026-10-12T22:51:31.391Z",
+  "server_time": "2026-10-12T22:51:31.391Z"
 }
