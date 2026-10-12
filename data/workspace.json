@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-12T06:06:10.909Z",
-  "updated_at": "2026-10-12T06:06:10.909Z",
+  "updatedAt": "2026-10-12T06:06:22.869Z",
+  "updated_at": "2026-10-12T06:06:22.869Z",
   "accountId": "tenant_empresa_cliente",
   "purgeEmployees": false,
   "tombstones": {
@@ -4769,5 +4769,5 @@
       "photoThumb": null
     }
   ],
-  "server_time": "2026-10-12T06:06:10.382Z"
+  "server_time": "2026-10-12T06:06:22.349Z"
 }
