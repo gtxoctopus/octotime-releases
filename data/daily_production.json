@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:58:52.734Z",
+  "updatedAt": "2026-10-13T21:59:22.332Z",
   "dailyProduction": [
     {
       "id": "prod_1790944018674_hfmp7h",
@@ -42,7 +42,7 @@
       ],
       "generalObservations": "⚠️ A produção foi dividida em 2 partes pois a Parte [01] é o final do trecho chegando a Barra do rocha e a Parte [02] é após Barra do Rocha, sentido Ubatã",
       "createdAt": "2026-10-02T12:26:58.679Z",
-      "updatedAt": "2026-10-13T21:58:34.667Z",
+      "updatedAt": "2026-10-13T21:58:34.666Z",
       "updated_at": "2026-10-13T21:58:34.666Z",
       "timestamp": 1790944018838,
       "photo": null,
@@ -102,5 +102,5 @@
       "photoThumb": null
     }
   ],
-  "server_time": "2026-10-13T21:58:52.806Z"
+  "server_time": "2026-10-13T21:59:22.417Z"
 }
