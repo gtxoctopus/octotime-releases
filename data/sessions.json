@@ -1,7 +1,7 @@
 {
   "sessions": {
     "wilson": {
-      "sessionToken": "sess_mv7ce7d5_v47kpr9",
+      "sessionToken": "sess_mv7ce7d1_incrdh0",
       "userKey": "wilson",
       "userId": "adm-1791326285361",
       "username": "wilson@scr.com.br",
@@ -9,12 +9,12 @@
       "role": "admin",
       "deviceId": "dev_mux8qtdl_8c6gvhc",
       "deviceName": "📱 App Móvel Android (OctoTime)",
-      "timestamp": 1791935943881,
-      "startedAt": 1791935943881,
-      "lastActive": 1791935943881,
+      "timestamp": 1791935943877,
+      "startedAt": 1791935943877,
+      "lastActive": 1791935943877,
       "status": "ACTIVE"
     }
   },
-  "updatedAt": "2026-10-13T23:59:04.001Z",
-  "server_time": "2026-10-13T23:59:04.001Z"
+  "updatedAt": "2026-10-13T23:59:03.993Z",
+  "server_time": "2026-10-13T23:59:03.993Z"
 }
