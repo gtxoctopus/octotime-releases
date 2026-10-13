@@ -1,10 +1,32 @@
 {
-  "updatedAt": "2026-10-13T20:49:45.898Z",
-  "updated_at": "2026-10-13T20:49:45.898Z",
+  "updatedAt": "2026-10-13T20:49:53.599Z",
+  "updated_at": "2026-10-13T20:49:53.599Z",
   "accountId": "tenant_guest",
   "purgeEmployees": false,
   "tombstones": {},
   "employees": [
+    {
+      "id": "apontador-teste-master",
+      "name": "Carlos Apontador (Teste)",
+      "cpf": "123.456.789-00",
+      "role": "Apontador de Campo",
+      "department": "Canteiro Central",
+      "phone": "(11) 98765-4321",
+      "standardHours": 8,
+      "hourlyRate": 32,
+      "status": "Ativo",
+      "isApontador": true,
+      "accessReleased": true,
+      "username": "carlos.apontador@empresa.com",
+      "email": "carlos.apontador@empresa.com",
+      "password": "123",
+      "company": "Construtora Exemplo (Teste)",
+      "creatorAdminId": "adm-teste-master",
+      "creatorAdminName": "Administrador Geral",
+      "createdAt": "2026-08-20T00:00:00.000Z",
+      "updated_at": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
     {
       "id": "emp-1791315091790",
       "creatorAdminId": "adm-1791298607664",
@@ -53,5 +75,5 @@
   "suppliers": [],
   "transfers": [],
   "apontadorNotices": [],
-  "server_time": "2026-10-13T20:49:50.725Z"
+  "server_time": "2026-10-13T20:49:53.715Z"
 }
