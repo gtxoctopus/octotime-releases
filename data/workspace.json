@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-14T22:49:49.652Z",
-  "updated_at": "2026-10-14T22:49:49.652Z",
+  "updatedAt": "2026-10-14T22:50:47.484Z",
+  "updated_at": "2026-10-14T22:50:47.484Z",
   "accountId": "master_superadmin",
   "purgeEmployees": false,
   "tombstones": {
@@ -5147,6 +5147,5 @@
       "createdAt": "2026-10-12T22:48:28.068Z",
       "read": false
     }
-  ],
-  "server_time": "2026-10-14T22:50:06.154Z"
+  ]
 }
