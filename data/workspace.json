@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-16T00:28:49.143Z",
-  "updated_at": "2026-10-16T00:28:49.143Z",
+  "updatedAt": "2026-10-16T00:29:16.391Z",
+  "updated_at": "2026-10-16T00:29:16.391Z",
   "accountId": "tenant_scr___sinaliza__o_e_conserva__o_de_rodovias_ltda_",
   "purgeEmployees": false,
   "tombstones": {
@@ -5148,5 +5148,5 @@
       "read": false
     }
   ],
-  "server_time": "2026-10-16T00:29:01.652Z"
+  "server_time": "2026-10-16T00:29:14.770Z"
 }
