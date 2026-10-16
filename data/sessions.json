@@ -1,7 +1,7 @@
 {
   "sessions": {
     "adm": {
-      "sessionToken": "sess_mvadd3m8_nwwx3vt",
+      "sessionToken": "sess_mvadd3m2_1w2zepi",
       "userKey": "adm",
       "userId": "adm-1791407374994",
       "username": "adm@teste.com",
@@ -9,12 +9,12 @@
       "role": "admin",
       "deviceId": "dev_mvacivia_cue1pkd",
       "deviceName": "📱 App Móvel Android (OctoTime)",
-      "timestamp": 1792118970512,
-      "startedAt": 1792118970512,
-      "lastActive": 1792118970512,
+      "timestamp": 1792118970506,
+      "startedAt": 1792118970506,
+      "lastActive": 1792118970506,
       "status": "ACTIVE"
     }
   },
-  "updatedAt": "2026-10-16T02:49:27.881Z",
-  "server_time": "2026-10-16T02:49:27.881Z"
+  "updatedAt": "2026-10-16T02:49:27.875Z",
+  "server_time": "2026-10-16T02:49:27.875Z"
 }
