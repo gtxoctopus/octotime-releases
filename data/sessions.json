@@ -2,12 +2,12 @@
   "sessions": {
     "adm": {
       "userKey": "adm",
-      "sessionToken": "sess_mvacpefd_x4dll68",
+      "sessionToken": "sess_mvacv0nu_y2wzr6m",
       "deviceId": "dev_mvacivia_cue1pkd",
-      "timestamp": 1792118112569,
+      "timestamp": 1792118966831,
       "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-10-16T02:35:09.964Z",
-  "server_time": "2026-10-16T02:35:09.964Z"
+  "updatedAt": "2026-10-16T02:49:24.203Z",
+  "server_time": "2026-10-16T02:49:24.203Z"
 }
