@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-16T02:26:01.750Z",
-  "updated_at": "2026-10-16T02:26:01.750Z",
+  "updatedAt": "2026-10-16T02:26:32.717Z",
+  "updated_at": "2026-10-16T02:26:32.717Z",
   "accountId": "tenant_guest",
   "purgeEmployees": false,
   "tombstones": {
@@ -247,8 +247,8 @@
       "creatorAdminId": "adm-teste-master",
       "creatorAdminName": "Administrador Geral",
       "createdAt": "2026-08-20T00:00:00.000Z",
-      "updated_at": "2026-10-16T02:26:01.306Z",
-      "updatedAt": "2026-10-16T02:26:01.306Z",
+      "updated_at": "2026-10-16T02:26:32.342Z",
+      "updatedAt": "2026-10-16T02:26:32.342Z",
       "photo": null,
       "avatar": null,
       "photoThumb": null,
@@ -1951,7 +1951,7 @@
       "pointType": "coletivo",
       "isEdited": false,
       "updated_at": "2026-10-16T02:26:01.388Z",
-      "updatedAt": "2026-10-16T02:26:01.389Z",
+      "updatedAt": "2026-10-16T02:26:01.388Z",
       "_action": "UPDATE",
       "_version": 1,
       "photo": null,
@@ -4112,7 +4112,7 @@
       "pointType": "coletivo",
       "isEdited": false,
       "updated_at": "2026-10-16T02:26:01.389Z",
-      "updatedAt": "2026-10-16T02:26:01.390Z",
+      "updatedAt": "2026-10-16T02:26:01.389Z",
       "_action": "UPDATE",
       "_version": 1,
       "photo": null,
@@ -5148,5 +5148,5 @@
       "read": false
     }
   ],
-  "server_time": "2026-10-16T02:26:14.473Z"
+  "server_time": "2026-10-16T02:26:31.051Z"
 }
