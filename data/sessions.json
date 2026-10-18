@@ -1,20 +1,13 @@
 {
   "sessions": {
     "scr": {
-      "sessionToken": "sess_mvebwkaf_e8n57q5",
       "userKey": "scr",
-      "userId": "comp-1792357464161-8jpw",
-      "username": "scr@scr.com.br",
-      "userName": "Sinalização e Conservação de Rodovias Ltda.",
-      "role": "company",
+      "sessionToken": "sess_mvebwkaf_e8n57q5",
       "deviceId": "dev_mvace3pw_vqerigp",
-      "deviceName": "📱 App Móvel Android (OctoTime)",
-      "timestamp": 1792358384055,
-      "startedAt": 1792358384055,
-      "lastActive": 1792358384055,
-      "status": "ACTIVE"
+      "timestamp": 1792358390324,
+      "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-10-18T21:19:44.333Z",
-  "server_time": "2026-10-18T21:19:44.333Z"
+  "updatedAt": "2026-10-18T21:19:50.593Z",
+  "server_time": "2026-10-18T21:19:50.593Z"
 }
