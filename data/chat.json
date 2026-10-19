@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T14:50:05.669Z",
+  "updatedAt": "2026-10-19T14:50:12.756Z",
   "accountId": "tenant_guest",
   "chatMessages": [
     {
@@ -37,9 +37,6 @@
       "reactions": {
         "❤️": [
           "emp-1791810541778"
-        ],
-        "👍": [
-          "emp-1791810541778"
         ]
       }
     },
@@ -48,5 +45,6 @@
       "text": "Realtime ok"
     }
   ],
-  "chatContacts": []
+  "chatContacts": [],
+  "server_time": "2026-10-19T14:50:12.720Z"
 }
