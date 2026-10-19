@@ -1,6 +1,10 @@
 {
-  "test": true,
-  "ping": 1792420540536,
-  "updatedAt": "2026-10-19T14:35:39.879Z",
-  "server_time": "2026-10-19T14:35:39.879Z"
+  "chatMessages": [
+    {
+      "id": "m-test-1",
+      "text": "Realtime ok"
+    }
+  ],
+  "updatedAt": "2026-10-19T14:37:06.724Z",
+  "server_time": "2026-10-19T14:37:06.076Z"
 }
