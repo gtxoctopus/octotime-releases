@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T14:50:12.756Z",
+  "updatedAt": "2026-10-19T14:50:28.871Z",
   "accountId": "tenant_guest",
   "chatMessages": [
     {
@@ -34,11 +34,7 @@
       "file": null,
       "timestamp": "2026-10-19T07:03:22.956Z",
       "isQueuedOutOfHours": false,
-      "reactions": {
-        "❤️": [
-          "emp-1791810541778"
-        ]
-      }
+      "reactions": {}
     },
     {
       "id": "m-test-1",
@@ -46,5 +42,5 @@
     }
   ],
   "chatContacts": [],
-  "server_time": "2026-10-19T14:50:12.720Z"
+  "server_time": "2026-10-19T14:50:29.150Z"
 }
