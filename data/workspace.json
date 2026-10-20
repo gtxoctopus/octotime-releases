@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-20T18:42:47.507Z",
-  "updated_at": "2026-10-20T18:42:47.507Z",
+  "updatedAt": "2026-10-20T18:43:07.647Z",
+  "updated_at": "2026-10-20T18:43:07.647Z",
   "accountId": "tenant_guest",
   "purgeEmployees": false,
   "tombstones": {
@@ -4896,7 +4896,9 @@
       "activity": "",
       "weather": "",
       "duplicateNotice": null,
-      "editHistory": []
+      "editHistory": [],
+      "photoThumb": null,
+      "companyLogo": null
     },
     {
       "id": "log-1792521457408-emp-1791415013207-2026-10-10",
@@ -4927,7 +4929,9 @@
       "activity": "",
       "weather": "",
       "duplicateNotice": null,
-      "editHistory": []
+      "editHistory": [],
+      "photoThumb": null,
+      "companyLogo": null
     }
   ],
   "equipment": [
