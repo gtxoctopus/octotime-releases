@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T15:23:22.919Z",
+  "updatedAt": "2026-10-20T15:23:55.544Z",
   "admins": [
     {
       "id": "adm-1791326285361",
@@ -73,13 +73,20 @@
       "status": "Ativo",
       "allowedAdminsCount": 10,
       "allowedApontadoresCount": 50,
-      "allowedAccessUserIds": [],
-      "createdAt": "2026-10-20T14:37:58.679Z",
-      "updatedAt": "2026-10-20T15:14:57.090Z",
-      "blockedUserIds": [
+      "allowedAccessUserIds": [
         "adm-1791326285361"
       ],
+      "createdAt": "2026-10-20T14:37:58.679Z",
+      "updatedAt": "2026-10-20T15:14:57.090Z",
+      "blockedUserIds": [],
       "auditLogs": [
+        {
+          "id": "log-1792509831701",
+          "action": "Concessão de acesso ao Painel Empresa para o usuário ID: adm-1791326285361",
+          "by": "Painel Empresa",
+          "timestamp": "2026-10-20T15:23:51.701Z",
+          "ip": "127.0.0.1"
+        },
         {
           "id": "log-1792507313035",
           "action": "Bloqueio de acesso ao Painel Empresa para o usuário ID: adm-1791326285361",
