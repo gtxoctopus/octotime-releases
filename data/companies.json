@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T15:23:14.652Z",
+  "updatedAt": "2026-10-20T15:23:51.703Z",
   "companies": [
     {
       "id": "comp-1792507078679-oyg4",
@@ -20,10 +20,10 @@
       "blockedUserIds": [],
       "auditLogs": [
         {
-          "id": "log-1792509794651",
+          "id": "log-1792509831701",
           "action": "Concessão de acesso ao Painel Empresa para o usuário ID: adm-1791326285361",
           "by": "Painel Empresa",
-          "timestamp": "2026-10-20T15:23:14.651Z",
+          "timestamp": "2026-10-20T15:23:51.701Z",
           "ip": "127.0.0.1"
         },
         {
@@ -55,5 +55,5 @@
       "updatedAt": "2026-10-20T14:37:58.679Z"
     }
   ],
-  "server_time": "2026-10-20T15:23:16.052Z"
+  "server_time": "2026-10-20T15:23:50.784Z"
 }
