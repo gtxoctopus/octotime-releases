@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-20T13:59:19.425Z",
-  "updated_at": "2026-10-20T13:59:19.425Z",
+  "updatedAt": "2026-10-20T13:59:43.820Z",
+  "updated_at": "2026-10-20T13:59:43.820Z",
   "accountId": "tenant_guest",
   "purgeEmployees": false,
   "tombstones": {
@@ -6083,6 +6083,5 @@
       "createdAt": "2026-10-12T22:48:28.068Z",
       "read": false
     }
-  ],
-  "server_time": "2026-10-20T13:59:38.083Z"
+  ]
 }
