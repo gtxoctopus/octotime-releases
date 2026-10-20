@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-20T15:30:14.270Z",
-  "updated_at": "2026-10-20T15:30:14.270Z",
+  "updatedAt": "2026-10-20T15:31:21.356Z",
+  "updated_at": "2026-10-20T15:31:21.356Z",
   "accountId": "tenant_guest",
   "purgeEmployees": false,
   "tombstones": {
@@ -5175,7 +5175,9 @@
       "updated_at": "2026-10-20T15:28:35.567Z",
       "updatedAt": "2026-10-20T15:28:35.567Z",
       "_action": "UPDATE",
-      "_version": 1
+      "_version": 1,
+      "photoThumb": null,
+      "companyLogo": null
     },
     {
       "id": "log-1792510115557-1-emp-1791415202934",
@@ -5198,7 +5200,9 @@
       "updated_at": "2026-10-20T15:28:35.567Z",
       "updatedAt": "2026-10-20T15:28:35.567Z",
       "_action": "UPDATE",
-      "_version": 1
+      "_version": 1,
+      "photoThumb": null,
+      "companyLogo": null
     },
     {
       "id": "log-1792510115557-2-emp-1791415311965",
@@ -5221,7 +5225,9 @@
       "updated_at": "2026-10-20T15:28:35.568Z",
       "updatedAt": "2026-10-20T15:28:35.568Z",
       "_action": "UPDATE",
-      "_version": 1
+      "_version": 1,
+      "photoThumb": null,
+      "companyLogo": null
     },
     {
       "id": "log-1792510115557-3-emp-1791810541778",
@@ -5244,7 +5250,9 @@
       "updated_at": "2026-10-20T15:28:35.568Z",
       "updatedAt": "2026-10-20T15:28:35.568Z",
       "_action": "UPDATE",
-      "_version": 1
+      "_version": 1,
+      "photoThumb": null,
+      "companyLogo": null
     }
   ],
   "equipment": [
@@ -5710,5 +5718,5 @@
       "read": false
     }
   ],
-  "server_time": "2026-10-20T15:31:15.989Z"
+  "server_time": "2026-10-20T15:31:22.827Z"
 }
