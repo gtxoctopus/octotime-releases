@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-20T14:38:00.400Z",
-  "updated_at": "2026-10-20T14:38:00.400Z",
-  "accountId": "master_superadmin",
+  "updatedAt": "2026-10-20T14:38:28.786Z",
+  "updated_at": "2026-10-20T14:38:28.786Z",
+  "accountId": "tenant_empresa_cliente",
   "purgeEmployees": false,
   "tombstones": {
     "log-1791418399948-1-emp-1791414795406": {
@@ -5618,5 +5618,5 @@
       "read": false
     }
   ],
-  "server_time": "2026-10-20T14:38:23.513Z"
+  "server_time": "2026-10-20T14:38:28.706Z"
 }
