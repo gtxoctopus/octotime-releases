@@ -1,14 +1,13 @@
 {
   "sessions": {
-    "mb": {
-      "userKey": "mb",
-      "userId": "emp-1790723853590",
-      "username": "mb@scr.com",
-      "status": "DELETED",
-      "reason": "Sua conta de Apontador (Mateus Barbosa 2) foi excluída pelo Administrador (wilson SCR-Ba). Todo o acesso foi revogado.",
-      "timestamp": 1792500463475
+    "wilson": {
+      "userKey": "wilson",
+      "sessionToken": "sess_mvfre066_o25b5ck",
+      "deviceId": "dev_mvacivia_cue1pkd",
+      "timestamp": 1792500638541,
+      "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-10-20T12:47:42.628Z",
-  "server_time": "2026-10-20T12:47:42.628Z"
+  "updatedAt": "2026-10-20T12:50:37.921Z",
+  "server_time": "2026-10-20T12:50:37.921Z"
 }
