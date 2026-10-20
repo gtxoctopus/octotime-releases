@@ -1,7 +1,7 @@
 {
   "sessions": {
     "superadmin_gtxoctopus": {
-      "sessionToken": "sess_mvgrhl2m_hr0gwmd",
+      "sessionToken": "sess_mvgrhl2w_xq420jc",
       "userKey": "superadmin_gtxoctopus",
       "userId": "superadmin_gtxoctopus",
       "username": "gtxoctopus@gmail.com",
@@ -9,12 +9,12 @@
       "role": "superadmin",
       "deviceId": "dev_mvacivia_cue1pkd",
       "deviceName": "📱 App Móvel Android (OctoTime)",
-      "timestamp": 1792505775871,
-      "startedAt": 1792505775871,
-      "lastActive": 1792505775871,
+      "timestamp": 1792505775886,
+      "startedAt": 1792505775886,
+      "lastActive": 1792505775886,
       "status": "ACTIVE"
     }
   },
-  "updatedAt": "2026-10-20T14:16:15.316Z",
-  "server_time": "2026-10-20T14:16:15.316Z"
+  "updatedAt": "2026-10-20T14:16:15.319Z",
+  "server_time": "2026-10-20T14:16:15.319Z"
 }
