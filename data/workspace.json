@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-21T17:04:10.181Z",
-  "updated_at": "2026-10-21T17:04:10.181Z",
+  "updatedAt": "2026-10-21T17:04:18.020Z",
+  "updated_at": "2026-10-21T17:04:18.020Z",
   "accountId": "tenant_scr",
   "purgeEmployees": false,
   "tombstones": {
@@ -239,7 +239,7 @@
       "id": "abs-1792526411228",
       "collection": "ABSENCES",
       "deleted_at": "2026-10-20T20:01:13.697Z",
-      "timestamp": 1792526473697,
+      "timestamp": 1792602257663,
       "permanent": true
     }
   },
