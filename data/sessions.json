@@ -1,13 +1,13 @@
 {
   "sessions": {
-    "superadmin_gtxoctopus": {
-      "userKey": "superadmin_gtxoctopus",
+    "adm": {
+      "userKey": "adm",
       "sessionToken": "",
       "deviceId": "dev_mvacivia_cue1pkd",
-      "timestamp": 1792620431169,
+      "timestamp": 1792620552143,
       "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-10-21T22:07:10.599Z",
-  "server_time": "2026-10-21T22:07:10.599Z"
+  "updatedAt": "2026-10-21T22:09:11.581Z",
+  "server_time": "2026-10-21T22:09:11.581Z"
 }
