@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-21T17:10:07.905Z",
-  "updated_at": "2026-10-21T17:10:07.905Z",
-  "accountId": "tenant_area_de_teste",
+  "updatedAt": "2026-10-21T17:10:39.135Z",
+  "updated_at": "2026-10-21T17:10:39.135Z",
+  "accountId": "tenant_guest",
   "purgeEmployees": false,
   "tombstones": {
     "log-1791418399948-1-emp-1791414795406": {
@@ -5575,5 +5575,5 @@
       "read": false
     }
   ],
-  "server_time": "2026-10-21T17:10:30.789Z"
+  "server_time": "2026-10-21T17:10:39.135Z"
 }
