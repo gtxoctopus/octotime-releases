@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-21T23:47:27.020Z",
-  "updated_at": "2026-10-21T23:47:27.020Z",
+  "updatedAt": "2026-10-21T23:47:55.101Z",
+  "updated_at": "2026-10-21T23:47:55.101Z",
   "accountId": "tenant_scr",
   "purgeEmployees": false,
   "tombstones": {
@@ -303,6 +303,13 @@
       "collection": "TIME_LOGS",
       "deleted_at": "2026-10-21T22:11:20.085Z",
       "timestamp": 1792620680086,
+      "permanent": true
+    },
+    "log-1792418740704-3-emp-1791810541778": {
+      "id": "log-1792418740704-3-emp-1791810541778",
+      "collection": "TIME_LOGS",
+      "deleted_at": "2026-10-21T23:47:36.738Z",
+      "timestamp": 1792626456745,
       "permanent": true
     }
   },
@@ -4718,33 +4725,6 @@
       "id": "log-1792418740704-2-emp-1791415311965",
       "employeeId": "emp-1791415311965",
       "employeeName": "Leiluan Almeida dos Santos",
-      "apontadorId": "emp-1791810541778",
-      "apontadorName": "Mateus Barbosa",
-      "creatorAdminId": "adm-1791326285361",
-      "creatorAdminUsername": "",
-      "company": "SCR",
-      "date": "2026-10-19",
-      "entry": "07:00",
-      "lunchStart": "12:00",
-      "lunchEnd": "13:00",
-      "exit": "17:00",
-      "observations": "Apontamento coletivo de equipe",
-      "weather": "NUBLADO",
-      "pointType": "coletivo",
-      "isEdited": false,
-      "updated_at": "2026-10-20T13:44:49.329Z",
-      "updatedAt": "2026-10-20T13:44:49.329Z",
-      "_action": "UPDATE",
-      "_version": 1,
-      "photo": null,
-      "avatar": null,
-      "photoThumb": null,
-      "companyLogo": null
-    },
-    {
-      "id": "log-1792418740704-3-emp-1791810541778",
-      "employeeId": "emp-1791810541778",
-      "employeeName": "Mateus Barbosa",
       "apontadorId": "emp-1791810541778",
       "apontadorName": "Mateus Barbosa",
       "creatorAdminId": "adm-1791326285361",
