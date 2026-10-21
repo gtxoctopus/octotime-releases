@@ -2,12 +2,12 @@
   "sessions": {
     "superadmin_gtxoctopus": {
       "userKey": "superadmin_gtxoctopus",
-      "sessionToken": "sess_mvinwdis_u6vls18",
+      "sessionToken": "",
       "deviceId": "dev_mvacivia_cue1pkd",
-      "timestamp": 1792620399792,
+      "timestamp": 1792620431169,
       "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-10-21T22:06:39.220Z",
-  "server_time": "2026-10-21T22:06:39.220Z"
+  "updatedAt": "2026-10-21T22:07:10.599Z",
+  "server_time": "2026-10-21T22:07:10.599Z"
 }
