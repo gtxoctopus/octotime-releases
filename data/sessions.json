@@ -1,20 +1,20 @@
 {
   "sessions": {
-    "superadmin_gtxoctopus": {
-      "sessionToken": "sess_mvinxxxh_smm5wcq",
-      "userKey": "superadmin_gtxoctopus",
-      "userId": "superadmin_gtxoctopus",
-      "username": "gtxoctopus@gmail.com",
-      "userName": "Super Administrador Octopus",
-      "role": "superadmin",
-      "deviceId": "dev_mvacivia_cue1pkd",
-      "deviceName": "📱 App Móvel Android (OctoTime)",
-      "timestamp": 1792620659574,
-      "startedAt": 1792620659574,
-      "lastActive": 1792620659574,
+    "gtx": {
+      "sessionToken": "sess_mvispkah_yr7eipx",
+      "userKey": "gtx",
+      "userId": "emp-1791810541778",
+      "username": "gtx@scr.com.br",
+      "userName": "Mateus Barbosa",
+      "role": "apontador",
+      "deviceId": "dev_mv3v93jy_3o1ket7",
+      "deviceName": "📱 Celular / Tablet (Navegador)",
+      "timestamp": 1792628475641,
+      "startedAt": 1792628475641,
+      "lastActive": 1792628475641,
       "status": "ACTIVE"
     }
   },
-  "updatedAt": "2026-10-21T22:11:04.364Z",
-  "server_time": "2026-10-21T22:11:04.364Z"
+  "updatedAt": "2026-10-22T00:21:15.660Z",
+  "server_time": "2026-10-22T00:21:15.660Z"
 }
