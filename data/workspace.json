@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-23T17:06:26.646Z",
-  "updated_at": "2026-10-23T17:06:26.646Z",
+  "updatedAt": "2026-10-23T17:08:18.648Z",
+  "updated_at": "2026-10-23T17:08:18.648Z",
   "accountId": "tenant_scr",
   "purgeEmployees": false,
   "tombstones": {
@@ -323,322 +323,322 @@
       "id": "log-1791689187866-2-emp-1791415202934",
       "collection": "TIME_LOGS",
       "deleted_at": "2026-10-23T13:31:45.570Z",
-      "timestamp": 1792775159102,
+      "timestamp": 1792762305570,
       "permanent": true
     },
     "log-1791786000378-3-emp-1790723853590": {
       "id": "log-1791786000378-3-emp-1790723853590",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:00.111Z",
-      "timestamp": 1792775159504,
+      "deleted_at": "2026-10-23T13:32:00.110Z",
+      "timestamp": 1792762320111,
       "permanent": true
     },
     "log-1791596473541-emp-1791414795406": {
       "id": "log-1791596473541-emp-1791414795406",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:00.114Z",
-      "timestamp": 1792775159907,
+      "deleted_at": "2026-10-23T13:32:00.110Z",
+      "timestamp": 1792762320114,
       "permanent": true
     },
     "log-1791598995506-3-emp-1791414795406": {
       "id": "log-1791598995506-3-emp-1791414795406",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:07.704Z",
-      "timestamp": 1792775160248,
+      "deleted_at": "2026-10-23T13:32:07.703Z",
+      "timestamp": 1792762327704,
       "permanent": true
     },
     "log-1791238324994-3-emp-1790723853590": {
       "id": "log-1791238324994-3-emp-1790723853590",
       "collection": "TIME_LOGS",
       "deleted_at": "2026-10-23T13:32:26.866Z",
-      "timestamp": 1792775160565,
+      "timestamp": 1792762346867,
       "permanent": true
     },
     "log-1791093214385-2-emp-1790808863408": {
       "id": "log-1791093214385-2-emp-1790808863408",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:26.870Z",
-      "timestamp": 1792775160857,
+      "deleted_at": "2026-10-23T13:32:26.866Z",
+      "timestamp": 1792762346871,
       "permanent": true
     },
     "log-1791784984780-1-emp-1791415202934": {
       "id": "log-1791784984780-1-emp-1791415202934",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:26.877Z",
-      "timestamp": 1792775161145,
+      "deleted_at": "2026-10-23T13:32:26.866Z",
+      "timestamp": 1792762346877,
       "permanent": true
     },
     "log-1791784984780-2-emp-1791415311965": {
       "id": "log-1791784984780-2-emp-1791415311965",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:26.880Z",
-      "timestamp": 1792775161387,
+      "deleted_at": "2026-10-23T13:32:26.866Z",
+      "timestamp": 1792762346880,
       "permanent": true
     },
     "log-1791784984780-4-emp-1791414795406": {
       "id": "log-1791784984780-4-emp-1791414795406",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:26.882Z",
-      "timestamp": 1792775161605,
+      "deleted_at": "2026-10-23T13:32:26.866Z",
+      "timestamp": 1792762346882,
       "permanent": true
     },
     "log-1791090325125-2-emp-1790808863408": {
       "id": "log-1791090325125-2-emp-1790808863408",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:26.884Z",
-      "timestamp": 1792775161794,
+      "deleted_at": "2026-10-23T13:32:26.866Z",
+      "timestamp": 1792762346884,
       "permanent": true
     },
     "log-1791090325125-3-emp-1790723853590": {
       "id": "log-1791090325125-3-emp-1790723853590",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:26.888Z",
-      "timestamp": 1792775161994,
+      "deleted_at": "2026-10-23T13:32:26.866Z",
+      "timestamp": 1792762346888,
       "permanent": true
     },
     "log-1791090283260-2-emp-1790808863408": {
       "id": "log-1791090283260-2-emp-1790808863408",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:26.891Z",
-      "timestamp": 1792775162211,
+      "deleted_at": "2026-10-23T13:32:26.866Z",
+      "timestamp": 1792762346891,
       "permanent": true
     },
     "log-1791090283260-3-emp-1790723853590": {
       "id": "log-1791090283260-3-emp-1790723853590",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:26.894Z",
-      "timestamp": 1792775162443,
+      "deleted_at": "2026-10-23T13:32:26.866Z",
+      "timestamp": 1792762346894,
       "permanent": true
     },
     "log-1791090232098-2-emp-1790808863408": {
       "id": "log-1791090232098-2-emp-1790808863408",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:26.895Z",
-      "timestamp": 1792775162658,
+      "deleted_at": "2026-10-23T13:32:26.866Z",
+      "timestamp": 1792762346896,
       "permanent": true
     },
     "log-1791090232098-3-emp-1790723853590": {
       "id": "log-1791090232098-3-emp-1790723853590",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:36.786Z",
-      "timestamp": 1792775162941,
+      "deleted_at": "2026-10-23T13:32:36.785Z",
+      "timestamp": 1792762356786,
       "permanent": true
     },
     "log-1791090216951-2-emp-1790808863408": {
       "id": "log-1791090216951-2-emp-1790808863408",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:36.792Z",
-      "timestamp": 1792775163181,
+      "deleted_at": "2026-10-23T13:32:36.785Z",
+      "timestamp": 1792762356792,
       "permanent": true
     },
     "log-1791090216951-3-emp-1790723853590": {
       "id": "log-1791090216951-3-emp-1790723853590",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:36.797Z",
-      "timestamp": 1792775163433,
+      "deleted_at": "2026-10-23T13:32:36.785Z",
+      "timestamp": 1792762356797,
       "permanent": true
     },
     "log-1791090201271-2-emp-1790808863408": {
       "id": "log-1791090201271-2-emp-1790808863408",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:36.800Z",
-      "timestamp": 1792775163674,
+      "deleted_at": "2026-10-23T13:32:36.785Z",
+      "timestamp": 1792762356800,
       "permanent": true
     },
     "log-1791090201271-3-emp-1790723853590": {
       "id": "log-1791090201271-3-emp-1790723853590",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:36.805Z",
-      "timestamp": 1792775163929,
+      "deleted_at": "2026-10-23T13:32:36.785Z",
+      "timestamp": 1792762356805,
       "permanent": true
     },
     "log-1790942942273-2-emp-1790808863408": {
       "id": "log-1790942942273-2-emp-1790808863408",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:36.810Z",
-      "timestamp": 1792775164149,
+      "deleted_at": "2026-10-23T13:32:36.785Z",
+      "timestamp": 1792762356811,
       "permanent": true
     },
     "log-1790942942273-3-emp-1790723853590": {
       "id": "log-1790942942273-3-emp-1790723853590",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:36.813Z",
-      "timestamp": 1792775164416,
+      "deleted_at": "2026-10-23T13:32:36.785Z",
+      "timestamp": 1792762356813,
       "permanent": true
     },
     "log-1790942932582-2-emp-1790808863408": {
       "id": "log-1790942932582-2-emp-1790808863408",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:36.815Z",
-      "timestamp": 1792775164644,
+      "deleted_at": "2026-10-23T13:32:36.785Z",
+      "timestamp": 1792762356815,
       "permanent": true
     },
     "log-1790942932582-3-emp-1790723853590": {
       "id": "log-1790942932582-3-emp-1790723853590",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:36.816Z",
-      "timestamp": 1792775164880,
+      "deleted_at": "2026-10-23T13:32:36.785Z",
+      "timestamp": 1792762356816,
       "permanent": true
     },
     "log-1790942890520-2-emp-1790808863408": {
       "id": "log-1790942890520-2-emp-1790808863408",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:36.818Z",
-      "timestamp": 1792775165096,
+      "deleted_at": "2026-10-23T13:32:36.785Z",
+      "timestamp": 1792762356818,
       "permanent": true
     },
     "log-1791090160048-3-emp-1790723853590": {
       "id": "log-1791090160048-3-emp-1790723853590",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:51.198Z",
-      "timestamp": 1792775165287,
+      "deleted_at": "2026-10-23T13:32:51.197Z",
+      "timestamp": 1792762371198,
       "permanent": true
     },
     "log-1791089798703-2-emp-1790808863408": {
       "id": "log-1791089798703-2-emp-1790808863408",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:51.199Z",
-      "timestamp": 1792775165503,
+      "deleted_at": "2026-10-23T13:32:51.197Z",
+      "timestamp": 1792762371200,
       "permanent": true
     },
     "log-1790942890520-3-emp-1790723853590": {
       "id": "log-1790942890520-3-emp-1790723853590",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:57.748Z",
-      "timestamp": 1792775165712,
+      "deleted_at": "2026-10-23T13:32:57.747Z",
+      "timestamp": 1792762377748,
       "permanent": true
     },
     "log-1791090173642-2-emp-1790808863408": {
       "id": "log-1791090173642-2-emp-1790808863408",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:57.750Z",
-      "timestamp": 1792775165914,
+      "deleted_at": "2026-10-23T13:32:57.747Z",
+      "timestamp": 1792762377750,
       "permanent": true
     },
     "log-1791090173642-3-emp-1790723853590": {
       "id": "log-1791090173642-3-emp-1790723853590",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:57.751Z",
-      "timestamp": 1792775166158,
+      "deleted_at": "2026-10-23T13:32:57.747Z",
+      "timestamp": 1792762377751,
       "permanent": true
     },
     "log-1791090160048-2-emp-1790808863408": {
       "id": "log-1791090160048-2-emp-1790808863408",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:57.753Z",
-      "timestamp": 1792775166350,
+      "deleted_at": "2026-10-23T13:32:57.747Z",
+      "timestamp": 1792762377753,
       "permanent": true
     },
     "log-1791786104894-0-emp-1791415013207": {
       "id": "log-1791786104894-0-emp-1791415013207",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:57.755Z",
-      "timestamp": 1792775166544,
+      "deleted_at": "2026-10-23T13:32:57.747Z",
+      "timestamp": 1792762377755,
       "permanent": true
     },
     "log-1791786104894-1-emp-1791415202934": {
       "id": "log-1791786104894-1-emp-1791415202934",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:57.757Z",
-      "timestamp": 1792775166761,
+      "deleted_at": "2026-10-23T13:32:57.747Z",
+      "timestamp": 1792762377757,
       "permanent": true
     },
     "log-1791786104894-2-emp-1791415311965": {
       "id": "log-1791786104894-2-emp-1791415311965",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:57.758Z",
-      "timestamp": 1792775166967,
+      "deleted_at": "2026-10-23T13:32:57.747Z",
+      "timestamp": 1792762377758,
       "permanent": true
     },
     "log-1791089798703-3-emp-1790723853590": {
       "id": "log-1791089798703-3-emp-1790723853590",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:57.759Z",
-      "timestamp": 1792775167720,
+      "deleted_at": "2026-10-23T13:32:57.747Z",
+      "timestamp": 1792762377759,
       "permanent": true
     },
     "log-1791089616148-2-emp-1790808863408": {
       "id": "log-1791089616148-2-emp-1790808863408",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:57.760Z",
-      "timestamp": 1792775168055,
+      "deleted_at": "2026-10-23T13:32:57.747Z",
+      "timestamp": 1792762377760,
       "permanent": true
     },
     "log-1791089616148-3-emp-1790723853590": {
       "id": "log-1791089616148-3-emp-1790723853590",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:32:57.761Z",
-      "timestamp": 1792775168325,
+      "deleted_at": "2026-10-23T13:32:57.747Z",
+      "timestamp": 1792762377761,
       "permanent": true
     },
     "log-1792510115555-0-emp-1791415013207": {
       "id": "log-1792510115555-0-emp-1791415013207",
       "collection": "TIME_LOGS",
       "deleted_at": "2026-10-23T13:33:15.910Z",
-      "timestamp": 1792775168593,
+      "timestamp": 1792762395910,
       "permanent": true
     },
     "log-1792510115557-2-emp-1791415311965": {
       "id": "log-1792510115557-2-emp-1791415311965",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:33:15.913Z",
-      "timestamp": 1792775168837,
+      "deleted_at": "2026-10-23T13:33:15.910Z",
+      "timestamp": 1792762395913,
       "permanent": true
     },
     "log-1792418740704-0-emp-1791415013207": {
       "id": "log-1792418740704-0-emp-1791415013207",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:33:15.914Z",
-      "timestamp": 1792775169113,
+      "deleted_at": "2026-10-23T13:33:15.910Z",
+      "timestamp": 1792762395914,
       "permanent": true
     },
     "log-1792418740704-2-emp-1791415311965": {
       "id": "log-1792418740704-2-emp-1791415311965",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:33:15.915Z",
-      "timestamp": 1792775169336,
+      "deleted_at": "2026-10-23T13:33:15.910Z",
+      "timestamp": 1792762395915,
       "permanent": true
     },
     "log-1791786000378-1-emp-1791415202934": {
       "id": "log-1791786000378-1-emp-1791415202934",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:33:15.916Z",
-      "timestamp": 1792775169639,
+      "deleted_at": "2026-10-23T13:33:15.910Z",
+      "timestamp": 1792762395916,
       "permanent": true
     },
     "log-1791598995506-1-emp-1791415202934": {
       "id": "log-1791598995506-1-emp-1791415202934",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:33:15.917Z",
-      "timestamp": 1792775169865,
+      "deleted_at": "2026-10-23T13:33:15.910Z",
+      "timestamp": 1792762395917,
       "permanent": true
     },
     "log-1791598995506-2-emp-1791415311965": {
       "id": "log-1791598995506-2-emp-1791415311965",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:33:15.918Z",
-      "timestamp": 1792775170176,
+      "deleted_at": "2026-10-23T13:33:15.910Z",
+      "timestamp": 1792762395919,
       "permanent": true
     },
     "log-1791598995506-0-emp-1791415013207": {
       "id": "log-1791598995506-0-emp-1791415013207",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:33:15.920Z",
-      "timestamp": 1792775170431,
+      "deleted_at": "2026-10-23T13:33:15.910Z",
+      "timestamp": 1792762395920,
       "permanent": true
     },
     "log-1791418502502-1-emp-1791414795406": {
       "id": "log-1791418502502-1-emp-1791414795406",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:33:15.921Z",
-      "timestamp": 1792775170746,
+      "deleted_at": "2026-10-23T13:33:15.910Z",
+      "timestamp": 1792762395922,
       "permanent": true
     },
     "log-1791418502502-2-emp-1791415202934": {
       "id": "log-1791418502502-2-emp-1791415202934",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:33:15.923Z",
-      "timestamp": 1792775171058,
+      "deleted_at": "2026-10-23T13:33:15.910Z",
+      "timestamp": 1792762395923,
       "permanent": true
     },
     "log-1791418502502-3-emp-1791415311965": {
@@ -798,8 +798,8 @@
     "log-1791772539259-0-emp-1791415013207": {
       "id": "log-1791772539259-0-emp-1791415013207",
       "collection": "TIME_LOGS",
-      "deleted_at": "2026-10-23T13:33:15.948Z",
-      "timestamp": 1792775171446,
+      "deleted_at": "2026-10-23T13:33:15.910Z",
+      "timestamp": 1792762395949,
       "permanent": true
     },
     "log-1791772539259-1-emp-1791415202934": {
@@ -3422,5 +3422,5 @@
       "read": false
     }
   ],
-  "server_time": "2026-10-23T17:08:11.639Z"
+  "server_time": "2026-10-23T17:08:18.559Z"
 }
