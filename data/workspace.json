@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-23T17:11:21.543Z",
-  "updated_at": "2026-10-23T17:11:21.543Z",
+  "updatedAt": "2026-10-23T17:11:44.990Z",
+  "updated_at": "2026-10-23T17:11:44.990Z",
   "accountId": "tenant_scr",
   "purgeEmployees": false,
   "tombstones": {
@@ -1472,7 +1472,9 @@
       "updatedAt": "2026-10-23T17:11:04.023Z",
       "updated_at": "2026-10-23T17:11:04.023Z",
       "_action": "UPDATE",
-      "_version": 1
+      "_version": 1,
+      "photoThumb": null,
+      "companyLogo": null
     }
   ],
   "timeLogs": [
