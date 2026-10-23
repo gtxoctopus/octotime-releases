@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-23T17:10:23.229Z",
-  "updated_at": "2026-10-23T17:10:23.229Z",
+  "updatedAt": "2026-10-23T17:11:21.543Z",
+  "updated_at": "2026-10-23T17:11:21.543Z",
   "accountId": "tenant_scr",
   "purgeEmployees": false,
   "tombstones": {
@@ -1438,6 +1438,41 @@
       "_action": "UPDATE",
       "_version": 2,
       "photoThumb": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAA4ADgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBAECBgf/xAAxEAABBAEDAgIHCQEAAAAAAAABAAIDEQQFEiETMUGRBlFhYnGB0RQiMkJTcqGxwfD/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBAX/xAAeEQADAAICAwEAAAAAAAAAAAAAAQIDERIhBCIxQf/aAAwDAQACEQMRAD8A7NC0kljibulkaxo8XGko1nVIfsoixcmNz5DR2PBoKm9LYUTzpSWcjWcWB+wO3uHfb2CiGtxuHAb5pFHE1r9po2FtkQMjbaU7o6S8bEujpIdTgkoOcGuPt4VwEEWDYK4IEl3BpM9F1OaHMZjSEujkO2j4FScnemKy+Kktyzq0IQnGAR6z6PN1GU5EUpZMe4dyD9FyuZpeTiZLMaSLdLICWhrrsAWSvRlxXpBj5cmvvmh3F0W0xn1cX/doaaS7ChbYmfiZUbQ5rZOOwY13H8LEGZmuAjbvmBNAHkq/qGp6nmQdJ5bE383TaRfxNqXH0KWHSusLbln77D2LR4fNLq5S7Gqbl7+ED+viQifLx5ImEgWRxyt9PmhytVxmsduBkbdKpm5uoZ0IhyJepFYIGwDnyVr0ZwizW4HO2tIsgObfh8e6rU76HvLk4+x6AhCE8wglWXEJMqVzHbJQAA4C/V3CaqhqLTG4Tj8NU/2eopGdPhufwZj+6FseC1rw6eQSFpsNqh5Ky59qGUxvO/pRudVWRz5qFrtgIs14Am6+a5b2zUkQZWCxzzJE7puPcVYPyW2jx7dWjc55c6iLquKWZJOFf0PGNvynjgjaz/T/AN7VpwKnSKtpS9jlCELpGIFggOBBFg9wUIUILMjSbJdjP2e4eyqnSsw/pX+4/RCEl4Ib3oastIsY2jAEOyX7/cHZNQA0ANAAHAAQhMmFK0gKp19MoQhECf/Z"
+    },
+    {
+      "id": "emp-1792775464016-pyqb4g",
+      "name": "Ancelmo Gabriel",
+      "cpf": "",
+      "role": "Apontador",
+      "contract": "Geral",
+      "obra": "Geral",
+      "sector": "Operacional",
+      "department": "Geral • Operacional",
+      "standardHours": 8.8,
+      "workRegime": "5x2",
+      "remunerationType": "Mensal",
+      "dailyRate": 0,
+      "hourlyRate": 0,
+      "quinzenaRate": 0,
+      "salary": 0,
+      "status": "Ativo",
+      "isApontador": false,
+      "accessReleased": true,
+      "accessReleasedAt": "2026-10-23T17:11:04.016Z",
+      "apontadorScope": null,
+      "apontadorId": null,
+      "apontadorIds": null,
+      "apontadorName": null,
+      "username": "ancelmo.gabriel@@scr.com.br",
+      "password": "123456",
+      "email": "ancelmo.gabriel@@scr.com.br",
+      "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ancelmo%20Gabriel",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ancelmo%20Gabriel",
+      "createdAt": "2026-10-23T17:11:04.017Z",
+      "updatedAt": "2026-10-23T17:11:04.023Z",
+      "updated_at": "2026-10-23T17:11:04.023Z",
+      "_action": "UPDATE",
+      "_version": 1
     }
   ],
   "timeLogs": [
@@ -3422,5 +3457,5 @@
       "read": false
     }
   ],
-  "server_time": "2026-10-23T17:11:16.774Z"
+  "server_time": "2026-10-23T17:11:21.226Z"
 }
