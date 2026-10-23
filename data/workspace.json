@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-23T17:14:31.611Z",
-  "updated_at": "2026-10-23T17:14:31.611Z",
-  "accountId": "tenant_scr",
+  "updatedAt": "2026-10-23T17:14:43.624Z",
+  "updated_at": "2026-10-23T17:14:43.624Z",
+  "accountId": "tenant_guest",
   "purgeEmployees": false,
   "tombstones": {
     "log-1791418399948-1-emp-1791414795406": {
@@ -1435,7 +1435,8 @@
       "_version": 1,
       "timestamp": 1792775464282,
       "avatar": null,
-      "photoThumb": null
+      "photoThumb": null,
+      "companyLogo": null
     },
     {
       "id": "emp-1792593288218",
