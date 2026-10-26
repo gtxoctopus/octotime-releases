@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T07:03:29.458Z",
+  "updatedAt": "2026-10-26T17:46:58.747Z",
   "requests": [
     {
       "id": "req-1791306443891",
@@ -35,11 +35,11 @@
       "reason": "Conta bloqueada após tentativas incorretas. Usuário solicitou nova senha e atualização cadastral.",
       "status": "Link Gerado",
       "requestedAt": "2026-10-12T07:22:18.373Z",
-      "token": "rec_1792393409457_azwsuk3",
-      "expiresAt": "2026-10-19T07:33:29.457Z",
-      "durationMinutes": 30,
-      "generatedAt": "2026-10-19T07:03:29.457Z"
+      "token": "rec_1793036818747_g1fvx7e",
+      "expiresAt": "2026-10-26T18:01:58.747Z",
+      "durationMinutes": 15,
+      "generatedAt": "2026-10-26T17:46:58.747Z"
     }
   ],
-  "server_time": "2026-10-19T07:03:30.058Z"
+  "server_time": "2026-10-26T17:46:58.790Z"
 }
