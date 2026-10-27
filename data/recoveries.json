@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T15:16:05.943Z",
+  "updatedAt": "2026-10-27T15:16:48.536Z",
   "requests": [
     {
       "id": "req-1791306443891",
@@ -55,15 +55,17 @@
       "creatorAdminName": "wilson SCR-Ba",
       "type": "admin_direct_link",
       "reason": "Link de redefinição emitido pelo administrador para Mateus Barbosa",
-      "status": "Link Gerado",
+      "status": "Concluído",
       "token": "rec_1793114121168_ev1wfjt_3tk9",
       "durationMinutes": 15,
       "generatedAt": "2026-10-27T15:15:21.168Z",
       "expiresAt": "2026-10-27T15:30:21.168Z",
       "opened": true,
       "openedAt": "2026-10-27T15:16:05.943Z",
-      "used": false
+      "used": true,
+      "completedAt": "2026-10-27T15:16:48.536Z",
+      "newPassword": "123654"
     }
   ],
-  "server_time": "2026-10-27T15:16:03.284Z"
+  "server_time": "2026-10-27T15:16:45.865Z"
 }
