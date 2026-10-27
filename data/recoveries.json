@@ -1,6 +1,29 @@
 {
-  "updatedAt": "2026-10-26T17:49:28.258Z",
+  "updatedAt": "2026-10-27T14:40:36.852Z",
   "requests": [
+    {
+      "id": "req-1793112036852",
+      "employeeId": "emp-1791810541778",
+      "name": "Mateus Barbosa",
+      "cpf": "047.524.015-41",
+      "username": "gtx@scr.com.br",
+      "email": "gtx@scr.com.br",
+      "userRole": "apontador",
+      "roleLabel": "Apontador de Campo",
+      "creatorRole": "admin",
+      "creatorAdminId": "adm-1791326285361",
+      "creatorAdminName": "wilson SCR-Ba",
+      "type": "admin_direct_link",
+      "reason": "Link de redefinição emitido pelo administrador para Mateus Barbosa",
+      "status": "Link Gerado",
+      "token": "rec_1793112036852_2hgg61e_x1wx",
+      "durationMinutes": 15,
+      "generatedAt": "2026-10-27T14:40:36.852Z",
+      "expiresAt": "2026-10-27T14:55:36.852Z",
+      "opened": false,
+      "openedAt": null,
+      "used": false
+    },
     {
       "id": "req-1791306443891",
       "employeeId": "adm-1791298269044",
@@ -42,5 +65,5 @@
       "completedAt": "2026-10-26T17:49:28.258Z"
     }
   ],
-  "server_time": "2026-10-26T17:49:28.310Z"
+  "server_time": "2026-10-27T14:40:36.454Z"
 }
