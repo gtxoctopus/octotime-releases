@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-27T16:12:29.363Z",
+  "updatedAt": "2026-10-27T16:13:25.343Z",
   "requests": [
     {
-      "id": "req-1793117549363",
+      "id": "req-1793117605342",
       "employeeId": "emp-1791810541778",
       "name": "Mateus Barbosa",
       "cpf": "047.524.015-41",
@@ -16,10 +16,10 @@
       "type": "admin_direct_link",
       "reason": "Link de redefinição emitido pelo administrador para Mateus Barbosa",
       "status": "Link Gerado",
-      "token": "rec_1793117549362_dyrs0vz_o2i1",
+      "token": "rec_1793117605342_2u4dgbp_utgd",
       "durationMinutes": 15,
-      "generatedAt": "2026-10-27T16:12:29.363Z",
-      "expiresAt": "2026-10-27T16:27:29.362Z",
+      "generatedAt": "2026-10-27T16:13:25.342Z",
+      "expiresAt": "2026-10-27T16:28:25.342Z",
       "opened": false,
       "openedAt": null,
       "used": false
@@ -90,5 +90,5 @@
       "completedAt": "2026-10-26T17:49:28.258Z"
     }
   ],
-  "server_time": "2026-10-27T16:12:28.982Z"
+  "server_time": "2026-10-27T16:13:27.971Z"
 }
