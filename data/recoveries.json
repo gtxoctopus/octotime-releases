@@ -1,29 +1,6 @@
 {
-  "updatedAt": "2026-10-27T15:15:21.168Z",
+  "updatedAt": "2026-10-27T15:16:05.943Z",
   "requests": [
-    {
-      "id": "req-1793114121168",
-      "employeeId": "emp-1791810541778",
-      "name": "Mateus Barbosa",
-      "cpf": "047.524.015-41",
-      "username": "gtx@scr.com.br",
-      "email": "gtx@scr.com.br",
-      "userRole": "apontador",
-      "roleLabel": "Apontador de Campo",
-      "creatorRole": "admin",
-      "creatorAdminId": "adm-1791326285361",
-      "creatorAdminName": "wilson SCR-Ba",
-      "type": "admin_direct_link",
-      "reason": "Link de redefinição emitido pelo administrador para Mateus Barbosa",
-      "status": "Link Gerado",
-      "token": "rec_1793114121168_ev1wfjt_3tk9",
-      "durationMinutes": 15,
-      "generatedAt": "2026-10-27T15:15:21.168Z",
-      "expiresAt": "2026-10-27T15:30:21.168Z",
-      "opened": false,
-      "openedAt": null,
-      "used": false
-    },
     {
       "id": "req-1791306443891",
       "employeeId": "adm-1791298269044",
@@ -63,7 +40,30 @@
       "durationMinutes": 15,
       "generatedAt": "2026-10-26T17:46:58.747Z",
       "completedAt": "2026-10-26T17:49:28.258Z"
+    },
+    {
+      "id": "req-1793114121168",
+      "employeeId": "emp-1791810541778",
+      "name": "Mateus Barbosa",
+      "cpf": "047.524.015-41",
+      "username": "gtx@scr.com.br",
+      "email": "gtx@scr.com.br",
+      "userRole": "apontador",
+      "roleLabel": "Apontador de Campo",
+      "creatorRole": "admin",
+      "creatorAdminId": "adm-1791326285361",
+      "creatorAdminName": "wilson SCR-Ba",
+      "type": "admin_direct_link",
+      "reason": "Link de redefinição emitido pelo administrador para Mateus Barbosa",
+      "status": "Link Gerado",
+      "token": "rec_1793114121168_ev1wfjt_3tk9",
+      "durationMinutes": 15,
+      "generatedAt": "2026-10-27T15:15:21.168Z",
+      "expiresAt": "2026-10-27T15:30:21.168Z",
+      "opened": true,
+      "openedAt": "2026-10-27T15:16:05.943Z",
+      "used": false
     }
   ],
-  "server_time": "2026-10-27T15:15:20.845Z"
+  "server_time": "2026-10-27T15:16:03.284Z"
 }
