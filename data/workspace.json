@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-27T15:15:59.134Z",
-  "updated_at": "2026-10-27T15:15:59.134Z",
-  "accountId": "tenant_scr___sinaliza__o_e_conserva__o_de_rodovias_ltda_",
+  "updatedAt": "2026-10-27T15:16:07.680Z",
+  "updated_at": "2026-10-27T15:16:07.680Z",
+  "accountId": "tenant_guest",
   "purgeEmployees": false,
   "tombstones": {
     "emp-1791315091790": {
@@ -3466,5 +3466,5 @@
       "read": false
     }
   ],
-  "server_time": "2026-10-27T15:15:56.817Z"
+  "server_time": "2026-10-27T15:16:05.216Z"
 }
