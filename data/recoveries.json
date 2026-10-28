@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T21:32:42.998Z",
+  "updatedAt": "2026-10-28T21:33:11.276Z",
   "requests": [
     {
       "id": "req-1793223137108-pxv8j",
@@ -15,14 +15,16 @@
       "creatorAdminName": "wilson SCR-Ba",
       "type": "admin_direct_link",
       "reason": "Link de redefinição emitido pelo administrador",
-      "status": "Link Gerado",
+      "status": "Concluído",
       "token": "rec_v2_eyJpZCI6InJlcS0xNzkzMjIzMTM3MTA4LXB4djhqIiwiZW1wbG95ZWVJZCI6ImVtcC0xNzkxODEwNTQxNzc4IiwibmFtZSI6Ik1hdGV1cyBCYXJib3NhIiwiY3BmIjoiMDQ3LjUyNC4wMTUtNDEiLCJ1c2VybmFtZSI6Imd0eEBzY3IuY29tLmJyIiwiZW1haWwiOiJndHhAc2NyLmNvbS5iciIsInVzZXJSb2xlIjoiYXBvbnRhZG9yIiwicm9sZUxhYmVsIjoiQXBvbnRhZG9yIGRlIENhbXBvIiwiY3JlYXRvclJvbGUiOiJhZG1pbiIsImNyZWF0b3JBZG1pbklkIjoiYWRtLTE3OTEzMjYyODUzNjEiLCJjcmVhdG9yQWRtaW5OYW1lIjoid2lsc29uIFNDUi1CYSIsImR1cmF0aW9uTWludXRlcyI6MTUsImdlbmVyYXRlZEF0IjoiMjAyNi0xMC0yOFQyMTozMjoxNy4xMDhaIiwiZXhwaXJlc0F0IjoiMjAyNi0xMC0yOFQyMTo0NzoxNy4xMDhaIiwic2FsdCI6ImNmenIybmNhIiwidiI6Mn0",
       "durationMinutes": 15,
       "generatedAt": "2026-10-28T21:32:17.108Z",
       "expiresAt": "2026-10-28T21:47:17.108Z",
       "opened": false,
       "openedAt": null,
-      "used": false
+      "used": true,
+      "completedAt": "2026-10-28T21:33:11.232Z",
+      "newPassword": "851025"
     },
     {
       "id": "req-1791306443891",
@@ -115,5 +117,5 @@
       "newPassword": "159235"
     }
   ],
-  "server_time": "2026-10-28T21:32:42.235Z"
+  "server_time": "2026-10-28T21:33:10.491Z"
 }
