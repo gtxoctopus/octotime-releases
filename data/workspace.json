@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-28T22:31:46.822Z",
-  "updated_at": "2026-10-28T22:31:46.822Z",
+  "updatedAt": "2026-10-29T10:12:28.965Z",
+  "updated_at": "2026-10-29T10:12:28.965Z",
   "accountId": "tenant_scr",
   "purgeEmployees": false,
   "tombstones": {
@@ -3471,5 +3471,5 @@
       "read": false
     }
   ],
-  "server_time": "2026-10-28T22:32:10.480Z"
+  "server_time": "2026-10-29T10:12:31.676Z"
 }
