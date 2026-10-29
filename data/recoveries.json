@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T17:03:57.531Z",
+  "updatedAt": "2026-10-29T17:04:03.674Z",
   "requests": [
     {
       "id": "req-1793268868139",
@@ -22,29 +22,7 @@
       "opened": false,
       "openedAt": null,
       "used": false
-    },
-    {
-      "id": "req-1793278774273",
-      "employeeId": "emp-1791810541778",
-      "name": "Mateus Barbosa",
-      "cpf": "047.524.015-41",
-      "username": "gtx@scr.com.br",
-      "email": "gtx@scr.com.br",
-      "userRole": "apontador",
-      "creatorRole": "admin",
-      "creatorAdminId": "adm-1791326285361",
-      "creatorAdminName": "wilson SCR-Ba",
-      "type": "password_reset",
-      "reason": "Solicitação de redefinição de senha e envio de novo link de acesso.",
-      "status": "Pendente",
-      "requestedAt": "2026-10-29T12:59:34.273Z",
-      "token": null,
-      "expiresAt": null,
-      "durationMinutes": 30,
-      "opened": false,
-      "openedAt": null,
-      "used": false
     }
   ],
-  "server_time": "2026-10-29T17:03:57.051Z"
+  "server_time": "2026-10-29T17:04:03.203Z"
 }
