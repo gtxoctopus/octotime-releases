@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-29T13:27:24.050Z",
+  "updatedAt": "2026-10-29T17:03:57.531Z",
   "requests": [
     {
-      "id": "req-1793280444050",
-      "employeeId": "emp-1792775464016-pyqb4g",
-      "name": "Ancelmo Gabriel",
-      "cpf": "000.000.000-00",
-      "username": "ag@scr.com.br",
-      "email": "ag@scr.com.br",
+      "id": "req-1793268868139",
+      "employeeId": "emp-1791810541778",
+      "name": "Mateus Barbosa",
+      "cpf": "047.524.015-41",
+      "username": "gtx@scr.com.br",
+      "email": "gtx@scr.com.br",
       "userRole": "apontador",
       "creatorRole": "admin",
       "creatorAdminId": "adm-1791326285361",
@@ -15,7 +15,7 @@
       "type": "password_reset",
       "reason": "Solicitação de redefinição de senha e envio de novo link de acesso.",
       "status": "Pendente",
-      "requestedAt": "2026-10-29T13:27:24.050Z",
+      "requestedAt": "2026-10-29T10:14:28.139Z",
       "token": null,
       "expiresAt": null,
       "durationMinutes": 30,
@@ -46,5 +46,5 @@
       "used": false
     }
   ],
-  "server_time": "2026-10-29T13:27:25.829Z"
+  "server_time": "2026-10-29T17:03:57.051Z"
 }
