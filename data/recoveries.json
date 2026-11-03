@@ -1,30 +1,6 @@
 {
-  "updatedAt": "2026-11-03T23:55:03.660Z",
+  "updatedAt": "2026-11-03T23:56:14.709Z",
   "requests": [
-    {
-      "id": "req-1793750103659-6d81",
-      "employeeId": "emp-1791810541778",
-      "name": "Mateus Barbosa",
-      "cpf": "047.524.015-41",
-      "username": "gtx@scr.com.br",
-      "email": "gtx@scr.com.br",
-      "company": "Empresa Cliente",
-      "companyName": "Empresa Cliente",
-      "userRole": "apontador",
-      "creatorRole": "admin",
-      "creatorAdminId": "adm-1791326285361",
-      "creatorAdminName": "wilson SCR-Ba",
-      "type": "blocked_account_recovery",
-      "reason": "Conta bloqueada após tentativas incorretas. Usuário solicitou nova senha e atualização cadastral.",
-      "status": "Pendente",
-      "requestedAt": "2026-11-03T23:55:03.659Z",
-      "token": null,
-      "expiresAt": null,
-      "durationMinutes": 30,
-      "opened": false,
-      "openedAt": null,
-      "used": false
-    },
     {
       "id": "req-1791306443891",
       "employeeId": "adm-1791298269044",
@@ -42,7 +18,8 @@
       "token": "rec_1791306557586_balhtfs",
       "expiresAt": "2026-10-06T17:39:17.586Z",
       "durationMinutes": 30,
-      "generatedAt": "2026-10-06T17:09:17.586Z"
+      "generatedAt": "2026-10-06T17:09:17.586Z",
+      "used": false
     },
     {
       "id": "req-1791789738373",
@@ -62,8 +39,9 @@
       "token": "rec_1792393409457_azwsuk3",
       "expiresAt": "2026-10-19T07:33:29.457Z",
       "durationMinutes": 30,
-      "generatedAt": "2026-10-19T07:03:29.457Z"
+      "generatedAt": "2026-10-19T07:03:29.457Z",
+      "used": false
     }
   ],
-  "server_time": "2026-11-03T23:55:03.506Z"
+  "server_time": "2026-11-03T23:56:08.500Z"
 }
