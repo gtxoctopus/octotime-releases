@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T23:56:14.709Z",
+  "updatedAt": "2026-11-03T23:56:20.482Z",
   "requests": [
     {
       "id": "req-1791306443891",
@@ -20,28 +20,7 @@
       "durationMinutes": 30,
       "generatedAt": "2026-10-06T17:09:17.586Z",
       "used": false
-    },
-    {
-      "id": "req-1791789738373",
-      "employeeId": "req-lock-1791789738373",
-      "name": "Usuário (047.524.015-41)",
-      "cpf": "047.524.015-41",
-      "username": "047.524.015-41",
-      "email": "047.524.015-41@scr.com.br",
-      "userRole": "apontador",
-      "creatorRole": "admin",
-      "creatorAdminId": "adm-1791326285361",
-      "creatorAdminName": "wilson SCR-Ba",
-      "type": "blocked_account_recovery",
-      "reason": "Conta bloqueada após tentativas incorretas. Usuário solicitou nova senha e atualização cadastral.",
-      "status": "Link Gerado",
-      "requestedAt": "2026-10-12T07:22:18.373Z",
-      "token": "rec_1792393409457_azwsuk3",
-      "expiresAt": "2026-10-19T07:33:29.457Z",
-      "durationMinutes": 30,
-      "generatedAt": "2026-10-19T07:03:29.457Z",
-      "used": false
     }
   ],
-  "server_time": "2026-11-03T23:56:08.500Z"
+  "server_time": "2026-11-03T23:56:14.253Z"
 }
