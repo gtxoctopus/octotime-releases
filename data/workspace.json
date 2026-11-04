@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-04T18:42:45.586Z",
-  "updated_at": "2026-11-04T18:42:45.586Z",
-  "accountId": "tenant_scr",
+  "updatedAt": "2026-11-04T18:43:18.735Z",
+  "updated_at": "2026-11-04T18:43:18.735Z",
+  "accountId": "tenant_guest",
   "purgeEmployees": false,
   "tombstones": {
     "log-1791418399948-1-emp-1791414795406": {
