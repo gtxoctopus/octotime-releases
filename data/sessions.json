@@ -1,13 +1,20 @@
 {
   "sessions": {
     "gtx": {
+      "sessionToken": "sess_mw459zvu_u31dakf",
       "userKey": "gtx",
-      "sessionToken": "sess_mw44idgy_rum5fnw",
+      "userId": "emp-1791810541778",
+      "username": "gtx@scr.com.br",
+      "userName": "Mateus Barbosa",
+      "role": "apontador",
       "deviceId": "dev_mv3v93jy_3o1ket7",
-      "timestamp": 1793919369432,
-      "status": "TERMINATED"
+      "deviceName": "📱 Celular / Tablet (Navegador)",
+      "timestamp": 1793919374058,
+      "startedAt": 1793919374058,
+      "lastActive": 1793919374058,
+      "status": "ACTIVE"
     }
   },
-  "updatedAt": "2026-11-05T22:56:09.978Z",
-  "server_time": "2026-11-05T22:56:09.978Z"
+  "updatedAt": "2026-11-05T22:56:14.608Z",
+  "server_time": "2026-11-05T22:56:14.608Z"
 }
