@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-05T23:42:24.103Z",
-  "updated_at": "2026-11-05T23:42:24.103Z",
-  "accountId": "tenant_scr",
+  "updatedAt": "2026-11-05T23:51:24.523Z",
+  "updated_at": "2026-11-05T23:51:24.523Z",
+  "accountId": "tenant_guest",
   "purgeEmployees": false,
   "tombstones": {
     "log-1791418399948-1-emp-1791414795406": {
@@ -1047,14 +1047,14 @@
       "creatorAdminId": "adm-teste-master",
       "creatorAdminName": "Administrador Geral",
       "createdAt": "2026-08-20T00:00:00.000Z",
+      "passwordUpdatedAt": "2026-08-20T00:00:00.000Z",
+      "photo": null,
       "updated_at": "2026-10-27T00:31:31.633Z",
       "updatedAt": "2026-10-27T00:31:31.633Z",
-      "photo": null,
       "avatar": null,
       "photoThumb": null,
       "companyLogo": null,
-      "timestamp": 1791838520697,
-      "passwordUpdatedAt": "1970-01-01T00:00:00.000Z"
+      "timestamp": 1791838520697
     },
     {
       "id": "emp-1791415202934",
@@ -3553,5 +3553,6 @@
       "createdAt": "2026-10-12T22:48:28.068Z",
       "read": false
     }
-  ]
+  ],
+  "server_time": "2026-11-05T23:51:26.039Z"
 }
