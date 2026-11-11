@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-11T17:04:55.457Z",
+  "updatedAt": "2026-11-11T17:08:27.173Z",
   "requests": [
     {
-      "id": "req-1794416682605-rm88",
+      "id": "req-1794416907173-vkkw",
       "employeeId": "emp-1791810541778",
       "name": "Mateus Barbosa",
       "cpf": "047.524.015-41",
@@ -17,15 +17,15 @@
       "type": "password_reset",
       "reason": "Solicitação de redefinição de senha e envio de novo link de acesso.",
       "status": "Pendente",
-      "requestedAt": "2026-11-11T17:04:42.605Z",
+      "requestedAt": "2026-11-11T17:08:27.173Z",
       "token": null,
       "expiresAt": null,
       "durationMinutes": 30,
       "opened": false,
       "openedAt": null,
       "used": false,
-      "viewed": true,
-      "viewedAt": "2026-11-11T17:04:55.457Z"
+      "viewed": false,
+      "viewedAt": null
     },
     {
       "id": "req-1791306443891",
@@ -73,5 +73,5 @@
       "viewedAt": "2026-11-11T15:53:53.659Z"
     }
   ],
-  "server_time": "2026-11-11T17:04:55.009Z"
+  "server_time": "2026-11-11T17:08:26.759Z"
 }
