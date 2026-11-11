@@ -2,12 +2,12 @@
   "sessions": {
     "gtx": {
       "userKey": "gtx",
-      "sessionToken": "sess_mwcfa0rb_e10e037",
-      "deviceId": "dev_mv3v93jy_3o1ket7",
-      "timestamp": 1794420479850,
+      "sessionToken": "sess_mwcfm3o0_vali42n",
+      "deviceId": "dev_mvacivia_cue1pkd",
+      "timestamp": 1794421601781,
       "status": "TERMINATED"
     }
   },
-  "updatedAt": "2026-11-11T18:08:00.922Z",
-  "server_time": "2026-11-11T18:08:00.922Z"
+  "updatedAt": "2026-11-11T18:26:41.394Z",
+  "server_time": "2026-11-11T18:26:41.394Z"
 }
