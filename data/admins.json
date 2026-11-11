@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T18:46:51.506Z",
+  "updatedAt": "2026-11-11T18:50:10.769Z",
   "admins": [
     {
       "id": "adm-teste-1",
@@ -11,8 +11,8 @@
       "status": "Ativo",
       "role": "admin",
       "entityType": "admin",
-      "updatedAt": "2026-11-11T18:46:51.499Z",
-      "passwordUpdatedAt": "2026-11-11T18:46:51.499Z"
+      "updatedAt": "2026-11-11T18:50:10.763Z",
+      "passwordUpdatedAt": "2026-11-11T18:50:10.763Z"
     }
   ],
   "subadmins": [],
