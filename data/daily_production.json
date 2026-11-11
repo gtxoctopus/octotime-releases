@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T18:05:49.582Z",
+  "updatedAt": "2026-11-11T18:06:47.421Z",
   "dailyProduction": [
     {
       "id": "prod_1794420349387_xkzh3j",
@@ -45,8 +45,10 @@
       ],
       "generalObservations": "Massa😁",
       "createdAt": "2026-11-11T18:05:49.389Z",
-      "updatedAt": "2026-11-11T18:05:49.389Z"
+      "updatedAt": "2026-11-11T18:05:49.389Z",
+      "photo": null,
+      "updated_at": "2026-11-11T18:05:49.389Z"
     }
   ],
-  "server_time": "2026-11-11T18:05:50.355Z"
+  "server_time": "2026-11-11T18:06:48.043Z"
 }
