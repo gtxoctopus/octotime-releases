@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T17:08:30.891Z",
+  "updatedAt": "2026-11-11T17:08:40.873Z",
   "requests": [
     {
       "id": "req-1794416910891-qjsh",
@@ -24,8 +24,8 @@
       "opened": false,
       "openedAt": null,
       "used": false,
-      "viewed": false,
-      "viewedAt": null
+      "viewed": true,
+      "viewedAt": "2026-11-11T17:08:40.873Z"
     },
     {
       "id": "req-1791306443891",
@@ -72,6 +72,5 @@
       "viewed": true,
       "viewedAt": "2026-11-11T15:53:53.659Z"
     }
-  ],
-  "server_time": "2026-11-11T17:08:30.460Z"
+  ]
 }
