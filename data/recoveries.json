@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T18:39:14.480Z",
+  "updatedAt": "2026-11-11T19:08:22.074Z",
   "requests": [
     {
       "id": "req-1794422354480-a4tv",
@@ -24,8 +24,8 @@
       "opened": false,
       "openedAt": null,
       "used": false,
-      "viewed": false,
-      "viewedAt": null
+      "viewed": true,
+      "viewedAt": "2026-11-11T19:08:22.073Z"
     },
     {
       "id": "req-1794417369593-7a1h",
@@ -75,5 +75,5 @@
       "viewed": false
     }
   ],
-  "server_time": "2026-11-11T18:39:14.139Z"
+  "server_time": "2026-11-11T19:08:21.625Z"
 }
