@@ -1,6 +1,32 @@
 {
-  "updatedAt": "2026-11-11T17:08:40.873Z",
+  "updatedAt": "2026-11-11T17:15:57.163Z",
   "requests": [
+    {
+      "id": "req-1794417357163-iwyg",
+      "employeeId": "emp-1791414451253",
+      "name": "Ancelmo Gabriel",
+      "cpf": "000.000.000-00",
+      "username": "000.000.000-00",
+      "email": "ancelmo.gabriel@scr.com.br",
+      "company": "Area de Teste",
+      "companyName": "Area de Teste",
+      "userRole": "colaborador",
+      "creatorRole": "admin",
+      "creatorAdminId": "adm-1791407374994",
+      "creatorAdminName": "Administrador Para Testes",
+      "type": "password_reset",
+      "reason": "Solicitação de redefinição de senha e envio de novo link de acesso.",
+      "status": "Pendente",
+      "requestedAt": "2026-11-11T17:15:57.163Z",
+      "token": null,
+      "expiresAt": null,
+      "durationMinutes": 30,
+      "opened": false,
+      "openedAt": null,
+      "used": false,
+      "viewed": false,
+      "viewedAt": null
+    },
     {
       "id": "req-1794416910891-qjsh",
       "employeeId": "emp-1791810541778",
@@ -47,30 +73,7 @@
       "generatedAt": "2026-10-06T17:09:17.586Z",
       "used": false,
       "viewed": false
-    },
-    {
-      "id": "req-1793293506582",
-      "employeeId": "emp-1792775464016-pyqb4g",
-      "name": "Ancelmo Gabriel",
-      "cpf": "000.000.000-00",
-      "username": "ag@scr.com.br",
-      "email": "ag@scr.com.br",
-      "userRole": "apontador",
-      "creatorRole": "admin",
-      "creatorAdminId": "adm-1791326285361",
-      "creatorAdminName": "wilson SCR-Ba",
-      "type": "password_reset",
-      "reason": "Solicitação de redefinição de senha e envio de novo link de acesso.",
-      "status": "Pendente",
-      "requestedAt": "2026-10-29T17:05:06.582Z",
-      "token": null,
-      "expiresAt": null,
-      "durationMinutes": 30,
-      "opened": false,
-      "openedAt": null,
-      "used": false,
-      "viewed": true,
-      "viewedAt": "2026-11-11T15:53:53.659Z"
     }
-  ]
+  ],
+  "server_time": "2026-11-11T17:15:56.710Z"
 }
