@@ -1,106 +1,52 @@
 {
-  "updatedAt": "2026-10-19T06:29:07.497Z",
+  "updatedAt": "2026-11-11T18:05:49.582Z",
   "dailyProduction": [
     {
-      "id": "prod_1790944018674_hfmp7h",
-      "date": "2026-09-23",
-      "displayDate": "23/09/2026",
+      "id": "prod_1794420349387_xkzh3j",
+      "date": "2026-11-11",
+      "displayDate": "11/11/2026",
       "apontadorName": "Mateus Barbosa",
-      "apontadorId": "emp-1790723853590",
-      "apontadorUsername": "mb@scr.com",
+      "apontadorId": "emp-1791810541778",
+      "apontadorUsername": "gtx@scr.com.br",
       "apontadorRole": "apontador",
-      "creatorAdminId": "adm-1790552990992",
-      "creatorAdminName": "Wilson Azevedo",
-      "companyName": "OctoTime Obras",
-      "company": "OctoTime Obras",
-      "coordFormat": "dms_ms",
-      "status": "enviado",
-      "sentAt": "2026-10-02T12:26:58.674Z",
-      "parts": [
-        {
-          "partNumber": "01",
-          "shift": "Turno Diurno",
-          "serviceType": "Roçada Mecânizada",
-          "locationMode": "estaqueamento",
-          "initialStake": "3835",
-          "finalStake": "3883",
-          "initialGps": null,
-          "finalGps": null,
-          "observations": "FINAL DO TRECHO CHEGANDO A Barra do Rocha"
-        },
-        {
-          "partNumber": "02",
-          "shift": "Turno Diurno",
-          "serviceType": "Roçada Mecânizada",
-          "locationMode": "gps",
-          "initialStake": "14°12'28\"S 39°35'44\"W",
-          "finalStake": "14°12'19\"S 39°34'31\"W",
-          "initialGps": null,
-          "finalGps": null,
-          "observations": ""
-        }
-      ],
-      "generalObservations": "⚠️ A produção foi dividida em 2 partes pois a Parte [01] é o final do trecho chegando a Barra do rocha e a Parte [02] é após Barra do Rocha, sentido Ubatã",
-      "createdAt": "2026-10-02T12:26:58.679Z",
-      "updatedAt": "2026-10-13T10:53:59.898Z",
-      "updated_at": "2026-10-13T10:53:59.898Z",
-      "timestamp": 1790944018838,
-      "photo": null,
-      "avatar": null,
-      "companyLogo": null,
-      "photoThumb": null
-    },
-    {
-      "id": "prod_1791229071842_gdw5tz",
-      "date": "2026-10-05",
-      "displayDate": "05/10/2026",
-      "apontadorName": "Mateus Barbosa",
-      "apontadorId": "emp-1790723853590",
-      "apontadorUsername": "mb@scr.com",
-      "apontadorRole": "apontador",
-      "creatorAdminId": "adm-1790552990992",
-      "creatorAdminName": "Admin01",
+      "creatorAdminId": "adm-1791326285361",
+      "creatorAdminName": "wilson SCR-Ba",
       "companyName": "OctoTime Obras",
       "company": "OctoTime Obras",
       "coordFormat": "dms_std",
       "status": "enviado",
-      "sentAt": "2026-10-05T19:37:51.842Z",
+      "sentAt": "2026-11-11T18:05:49.387Z",
       "isEdited": false,
       "parts": [
         {
           "partNumber": "01",
           "shift": "Turno Diurno",
-          "serviceType": "Roçada Mecânizada",
+          "serviceType": "Tapa buraco",
           "locationMode": "gps",
-          "initialStake": "14°14'08\"S 39°24'38\"W",
-          "finalStake": "14°14'02\"S 39°23'31\"W",
+          "initialStake": "13°51'16\"S 40°01'50\"W",
+          "finalStake": "13°51'16\"S 40°01'50\"W",
           "initialGps": {
-            "lat": -14.2355026,
-            "lon": -39.4106694,
-            "formatted": "14°14'08\"S 39°24'38\"W",
-            "accuracy": 3,
-            "time": "16:34:30"
+            "lat": -13.8545691,
+            "lon": -40.0306224,
+            "formatted": "13°51'16\"S 40°01'50\"W",
+            "accuracy": 49,
+            "time": "15:04:42"
           },
           "finalGps": {
-            "lat": -14.2339603,
-            "lon": -39.3918447,
-            "formatted": "14°14'02\"S 39°23'31\"W",
-            "accuracy": 4,
-            "time": "16:37:37"
+            "lat": -13.8545687,
+            "lon": -40.0306245,
+            "formatted": "13°51'16\"S 40°01'50\"W",
+            "accuracy": 56,
+            "time": "15:04:54"
           },
-          "observations": "",
-          "generalObservations": ""
+          "observations": "Massa😁",
+          "generalObservations": "Massa😁"
         }
       ],
-      "generalObservations": "",
-      "createdAt": "2026-10-05T19:37:51.844Z",
-      "updatedAt": "2026-10-13T10:53:59.898Z",
-      "updated_at": "2026-10-13T10:53:59.898Z",
-      "photo": null,
-      "avatar": null,
-      "companyLogo": null,
-      "photoThumb": null
+      "generalObservations": "Massa😁",
+      "createdAt": "2026-11-11T18:05:49.389Z",
+      "updatedAt": "2026-11-11T18:05:49.389Z"
     }
   ],
-  "server_time": "2026-10-19T06:29:07.961Z"
+  "server_time": "2026-11-11T18:05:50.355Z"
 }
