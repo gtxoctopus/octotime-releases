@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T01:35:23.253Z",
+  "updatedAt": "2026-11-25T01:55:13.041Z",
   "admins": [
     {
       "id": "adm-teste-1",
@@ -94,10 +94,10 @@
       "status": "Ativo",
       "allowedAdminsCount": 10,
       "allowedApontadoresCount": 50,
-      "allowedAccessUserIds": [
+      "allowedAccessUserIds": [],
+      "blockedUserIds": [
         "adm-1792357868943-1tau"
       ],
-      "blockedUserIds": [],
       "createdAt": "2026-10-18T21:04:24.161Z",
       "settings": {
         "workdayHours": 8.8,
@@ -166,6 +166,13 @@
         }
       ],
       "auditLogs": [
+        {
+          "id": "log-1795571707975",
+          "action": "Bloqueio de acesso ao Painel Empresa para o usuário ID: adm-1792357868943-1tau",
+          "by": "Painel Empresa",
+          "timestamp": "2026-11-25T01:55:07.975Z",
+          "ip": "127.0.0.1"
+        },
         {
           "id": "log-1792358387779",
           "action": "Concessão de acesso ao Painel Empresa para o usuário ID: adm-1792357868943-1tau",
@@ -252,5 +259,6 @@
     "emp-1791825634913",
     "adm-1791318567555",
     "emp-1790723853590"
-  ]
+  ],
+  "server_time": "2026-11-25T01:55:12.004Z"
 }
