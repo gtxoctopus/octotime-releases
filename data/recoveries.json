@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T01:33:23.241Z",
+  "updatedAt": "2026-11-25T01:33:46.965Z",
   "requests": [
     {
       "id": "req-1795570383785-39kj",
@@ -16,16 +16,18 @@
       "creatorAdminName": "wilson SCR-Ba",
       "type": "password_reset",
       "reason": "Solicitação de redefinição de senha e envio de novo link de acesso.",
-      "status": "Pendente",
+      "status": "Link Gerado",
       "requestedAt": "2026-11-25T01:33:03.785Z",
-      "token": null,
-      "expiresAt": null,
+      "token": "rec_v2_eyJpZCI6InJlcS0xNzk1NTcwMzgzNzg1LTM5a2oiLCJlbXBsb3llZUlkIjoiZW1wLTE3OTE4MTA1NDE3NzgiLCJuYW1lIjoiTWF0ZXVzIEJhcmJvc2EiLCJjcGYiOiIwNDcuNTI0LjAxNS00MSIsInVzZXJuYW1lIjoiZ3R4QHNjci5jb20uYnIiLCJlbWFpbCI6Imd0eEBzY3IuY29tLmJyIiwidXNlclJvbGUiOiJhcG9udGFkb3IiLCJyb2xlTGFiZWwiOiJVc3XDoXJpbyIsImNyZWF0b3JSb2xlIjoiYWRtaW4iLCJjcmVhdG9yQWRtaW5JZCI6ImFkbS0xNzkxMzI2Mjg1MzYxIiwiY3JlYXRvckFkbWluTmFtZSI6IndpbHNvbiBTQ1ItQmEiLCJkdXJhdGlvbk1pbnV0ZXMiOjMwLCJnZW5lcmF0ZWRBdCI6IjIwMjYtMTEtMjVUMDE6MzM6NDYuOTY1WiIsImV4cGlyZXNBdCI6IjIwMjYtMTEtMjVUMDI6MDM6NDYuOTY1WiIsInNhbHQiOiJ5MnBpb2RlYiIsInYiOjJ9",
+      "expiresAt": "2026-11-25T02:03:46.965Z",
       "durationMinutes": 30,
       "opened": false,
       "openedAt": null,
       "used": false,
       "viewed": true,
-      "viewedAt": "2026-11-25T01:33:23.241Z"
+      "viewedAt": "2026-11-25T01:33:23.241Z",
+      "generatedAt": "2026-11-25T01:33:46.965Z",
+      "newPassword": null
     },
     {
       "id": "req-1793293506582",
@@ -99,5 +101,5 @@
       "viewedAt": "2026-11-11T17:59:06.408Z"
     }
   ],
-  "server_time": "2026-11-25T01:33:22.184Z"
+  "server_time": "2026-11-25T01:33:45.907Z"
 }
