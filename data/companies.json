@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T01:55:07.976Z",
+  "updatedAt": "2026-11-25T01:55:44.981Z",
   "companies": [
     {
       "id": "comp-1792357464161-8jpw",
@@ -31,6 +31,15 @@
         "erpSyncInterval": "daily"
       },
       "announcements": [
+        {
+          "id": "ann-1795571744980",
+          "createdAt": "2026-11-25T01:55:44.980Z",
+          "title": "Teste",
+          "message": "SCR-Sinalização e Conservação de Rodovias Ltda. Boas-vindas ao Painel Corporativo OctoTime 18/10/2026 Ambiente corporativo de Sinalização e Conservação de Rodovias Ltda.. Gestão centralizada de equipes, relatórios e automação.",
+          "target": "all",
+          "priority": "normal",
+          "author": "Sinalização e Conservação de Rodovias Ltda."
+        },
         {
           "id": "ann-1792358464517",
           "createdAt": "2026-10-18T21:21:04.517Z",
@@ -171,5 +180,6 @@
     "comp-1793114157285-yfna",
     "comp-1793114157285-ztzd",
     "comp-1791407374994"
-  ]
+  ],
+  "server_time": "2026-11-25T01:55:43.954Z"
 }
