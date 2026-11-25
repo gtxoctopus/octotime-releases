@@ -1,33 +1,30 @@
 {
-  "updatedAt": "2026-11-25T01:33:46.965Z",
+  "updatedAt": "2026-11-25T01:34:08.296Z",
   "requests": [
     {
-      "id": "req-1795570383785-39kj",
+      "id": "req-1795570448296-he2rv",
       "employeeId": "emp-1791810541778",
       "name": "Mateus Barbosa",
       "cpf": "047.524.015-41",
       "username": "gtx@scr.com.br",
       "email": "gtx@scr.com.br",
-      "company": "Empresa Cliente",
-      "companyName": "Empresa Cliente",
       "userRole": "apontador",
+      "roleLabel": "Apontador de Campo",
       "creatorRole": "admin",
       "creatorAdminId": "adm-1791326285361",
       "creatorAdminName": "wilson SCR-Ba",
-      "type": "password_reset",
-      "reason": "Solicitação de redefinição de senha e envio de novo link de acesso.",
+      "type": "admin_direct_link",
+      "reason": "Link de redefinição emitido pelo administrador para Mateus Barbosa",
       "status": "Link Gerado",
-      "requestedAt": "2026-11-25T01:33:03.785Z",
-      "token": "rec_v2_eyJpZCI6InJlcS0xNzk1NTcwMzgzNzg1LTM5a2oiLCJlbXBsb3llZUlkIjoiZW1wLTE3OTE4MTA1NDE3NzgiLCJuYW1lIjoiTWF0ZXVzIEJhcmJvc2EiLCJjcGYiOiIwNDcuNTI0LjAxNS00MSIsInVzZXJuYW1lIjoiZ3R4QHNjci5jb20uYnIiLCJlbWFpbCI6Imd0eEBzY3IuY29tLmJyIiwidXNlclJvbGUiOiJhcG9udGFkb3IiLCJyb2xlTGFiZWwiOiJVc3XDoXJpbyIsImNyZWF0b3JSb2xlIjoiYWRtaW4iLCJjcmVhdG9yQWRtaW5JZCI6ImFkbS0xNzkxMzI2Mjg1MzYxIiwiY3JlYXRvckFkbWluTmFtZSI6IndpbHNvbiBTQ1ItQmEiLCJkdXJhdGlvbk1pbnV0ZXMiOjMwLCJnZW5lcmF0ZWRBdCI6IjIwMjYtMTEtMjVUMDE6MzM6NDYuOTY1WiIsImV4cGlyZXNBdCI6IjIwMjYtMTEtMjVUMDI6MDM6NDYuOTY1WiIsInNhbHQiOiJ5MnBpb2RlYiIsInYiOjJ9",
-      "expiresAt": "2026-11-25T02:03:46.965Z",
-      "durationMinutes": 30,
+      "token": "rec_v2_eyJpZCI6InJlcS0xNzk1NTcwNDQ4Mjk2LWhlMnJ2IiwiZW1wbG95ZWVJZCI6ImVtcC0xNzkxODEwNTQxNzc4IiwibmFtZSI6Ik1hdGV1cyBCYXJib3NhIiwiY3BmIjoiMDQ3LjUyNC4wMTUtNDEiLCJ1c2VybmFtZSI6Imd0eEBzY3IuY29tLmJyIiwiZW1haWwiOiJndHhAc2NyLmNvbS5iciIsInVzZXJSb2xlIjoiYXBvbnRhZG9yIiwicm9sZUxhYmVsIjoiQXBvbnRhZG9yIGRlIENhbXBvIiwiY3JlYXRvclJvbGUiOiJhZG1pbiIsImNyZWF0b3JBZG1pbklkIjoiYWRtLTE3OTEzMjYyODUzNjEiLCJjcmVhdG9yQWRtaW5OYW1lIjoid2lsc29uIFNDUi1CYSIsImR1cmF0aW9uTWludXRlcyI6MTUsImdlbmVyYXRlZEF0IjoiMjAyNi0xMS0yNVQwMTozNDowOC4yOTZaIiwiZXhwaXJlc0F0IjoiMjAyNi0xMS0yNVQwMTo0OTowOC4yOTZaIiwic2FsdCI6ImxnZmdlZG40IiwidiI6Mn0",
+      "durationMinutes": 15,
+      "generatedAt": "2026-11-25T01:34:08.296Z",
+      "expiresAt": "2026-11-25T01:49:08.296Z",
       "opened": false,
       "openedAt": null,
       "used": false,
       "viewed": true,
-      "viewedAt": "2026-11-25T01:33:23.241Z",
-      "generatedAt": "2026-11-25T01:33:46.965Z",
-      "newPassword": null
+      "viewedAt": "2026-11-25T01:34:08.296Z"
     },
     {
       "id": "req-1793293506582",
@@ -101,5 +98,5 @@
       "viewedAt": "2026-11-11T17:59:06.408Z"
     }
   ],
-  "server_time": "2026-11-25T01:33:45.907Z"
+  "server_time": "2026-11-25T01:34:07.235Z"
 }
